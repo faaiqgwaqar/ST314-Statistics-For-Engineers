@@ -1,0 +1,400 @@
+Course ,Major,SchoolWorkHours,Terms,CreditHours,SchoolMaterialsDollars,Distance,Roommates,Job,Salary,Activity,Height,Gender,Email,TextMessages,Phone,Gaming,GamingHours,Profile ,SocialTime,SubjectPreferred,International,States
+Online,Mechanical Engineering,25,5,16,300,130,1,12,50000,60,66,Female,15,3,iOS,gaming console,2,TRUE,20,Math,TRUE,48
+Campus,Computer Science,15,6,14,120,0.8,4,4,44000,1,77,Male,10,11,iOS,computer,12,TRUE,90,Math,TRUE,45
+Campus,Civil or CEM,26,7,14,500,0.6,0,5,120000,120,73,Male,12,20,Android,computer,0,TRUE,1,Math,TRUE,45
+Online,Civil or CEM,25,3,15,300,3,6,4,70000,10,69.5,Female,11,110,iOS,phone,2.83,TRUE,35,Math,TRUE,43
+Online,"IE, ChemE or Other",10,5,15,200,1.75,1,9,55000,30,70,Male,12,68,iOS,nothing. I don't play video games.,0,TRUE,10,Math,TRUE,43
+Campus,"IE, ChemE or Other",35,15,12,200,1,0,6,35000,60,71,Male,9,1,iOS,computer,12,TRUE,90,Writing,TRUE,42
+Campus,"IE, ChemE or Other",12,5,12,50,1,50,2,100000,60,86,Male,6,50,iOS,gaming console,1,TRUE,10,Math,TRUE,40
+Campus,"IE, ChemE or Other",25,2,12,200,1.4,3,5,60000,30,72,Male,4,160,Android,computer,4,TRUE,45,Math,TRUE,38
+Campus,"IE, ChemE or Other",20,6,15,400,1,4,1,80000,120,74,Male,8,20,iOS,gaming console,1,TRUE,30,Math,TRUE,36
+Campus,"IE, ChemE or Other",3,9,14,300,0.8,3,4,50000,30,70,Male,9,50,iOS,gaming console,0,TRUE,180,Math,TRUE,35
+Online,"IE, ChemE or Other",15,6,14,120,1.1,3,2,70000,60,68,Male,30,100,iOS,gaming console,0,TRUE,60,Math,TRUE,35
+Campus,"IE, ChemE or Other",25,6,16,150,38,3,2,55000,120,61,Female,16,10,Android,computer,0,TRUE,90,Writing,TRUE,35
+Online,"IE, ChemE or Other",9,1,3,200,253,2,8,60000,90,67,Female,3,57,iOS,phone,10,TRUE,45,Math,TRUE,32
+Campus,"IE, ChemE or Other",26,6,15,500,0.6,1,0,60000,55,72,Male,23,213,iOS,computer,5,FALSE,0,Math,TRUE,31
+Campus,"IE, ChemE or Other",6,9,19,200,2240,50,6,87000,60,60,Female,30,100,iOS,nothing. I don't play video games.,0,TRUE,100,Math,TRUE,30
+Campus,"IE, ChemE or Other",56,6,19,200,6,0,1,50000,30,70,Male,10,12,iOS,gaming console,2,TRUE,90,Math,FALSE,30
+Campus,"IE, ChemE or Other",25,6,14,200,0.5,35,1,30000,60,69,Male,15,10,iOS,gaming console,7,TRUE,60,Math,TRUE,30
+Online,"IE, ChemE or Other",25,3,15,400,3,5,2,80000,10,75,Male,12,86,iOS,nothing. I don't play video games.,0,TRUE,45,Math,TRUE,30
+Campus,"IE, ChemE or Other",20,5,14,50,0.5,0,2,90000,30,74,Male,6,20,iOS,computer,10,TRUE,30,Math,TRUE,30
+Campus,"IE, ChemE or Other",40,3,20,300,0.1,1,3,70000,75,72,Male,15,10,iOS,gaming console,0,TRUE,30,Math,TRUE,30
+Online,"IE, ChemE or Other",75,10,9,600,0.6,0,5,70000,20,75,Male,10,70,Android,gaming console,15,TRUE,1,Math,TRUE,30
+Online,"IE, ChemE or Other",15,10,9,400,3,4,4,80000,45,73,Male,12,150,iOS,computer,5,TRUE,80,Math,TRUE,26
+Campus,"IE, ChemE or Other",15,9,14,100,2,10,2,50000,30,64,Female,8,4,Android,computer,8,TRUE,60,Math,TRUE,26
+Campus,"IE, ChemE or Other",20,6,16,200,1.1,5,2,50000,15,74,Male,11,13,iOS,gaming console,10,TRUE,45,Math,TRUE,26
+Online,"IE, ChemE or Other",30,9,10,250,70,3,7,60000,10,72,Male,6,12,iOS,computer,2,TRUE,30,Math,TRUE,26
+Campus,"IE, ChemE or Other",40,6,16,400,5,1,4,50000,60,72,Male,7,20,iOS,computer,4,TRUE,10,Math,TRUE,26
+Campus,"IE, ChemE or Other",12,3,15,200,72,1,3,80000,0,63,Female,20,100,iOS,gaming console,2,TRUE,240,Math,TRUE,25
+Campus,Mechanical Engineering,10,6,16,150,0.5,11,6,60000,30,67,Female,16,40,iOS,nothing. I don't play video games.,0,TRUE,120,Math,TRUE,25
+Campus,Mechanical Engineering,10,6,16,200,0.5,35,4,80000,30,67,Male,10,9,Android,gaming console,5,TRUE,80,Math,TRUE,25
+Campus,Computer Science,2,11,17,200,1,4,3,80000,60,72,Male,4,15,iOS,gaming console,3,TRUE,40,Math,TRUE,25
+Campus,Civil or CEM,20,6,16,250,0,0,3,65000,45,70,Female,16,200,iOS,gaming console,1,TRUE,5,Math,TRUE,25
+Campus,Computer Science,15,3,17,200,0,1,1,90000,30,77,Male,14,10,Android,computer,30,TRUE,0,Math,TRUE,25
+Online,Computer Science,30,4,14,200,1,1,6,60000,30,72,Male,10,5,Android,computer,3,TRUE,0,Math,TRUE,25
+Campus,Computer Science,25,7,17,150,0.8,4,6,55000,50,68,Male,19,31,iOS,gaming console,10,TRUE,30,Writing,TRUE,24
+Campus,"IE, ChemE or Other",40,11,13,300,0.5,5,4,50000,60,68,Male,23,15,Android,gaming console,6,TRUE,80,Math,TRUE,23
+Campus,Civil or CEM,30,6,15,300,1,4,6,60000,120,75,Male,15,150,iOS,gaming console,14,TRUE,60,Math,TRUE,23
+Campus,Computer Science,12,4,11,300,1,0,7,60000,30,68,Male,11,12,Android,computer,5,TRUE,60,Math,FALSE,23
+Campus,Mechanical Engineering,20,6,16,150,15,3,4,70000,0,72,Male,3,83,Android,gaming console,5,TRUE,5,Math,TRUE,23
+Campus,Computer Science,15,3,15,100,3.5,5,4,60000,0,77,Male,15,60,iOS,computer,15,TRUE,1,Math,TRUE,23
+Campus,Computer Science,12,7,9,20,3.5,2,8,65000,60,73,Male,12,100,iOS,gaming console,10,TRUE,90,Writing,TRUE,23
+Campus,Computer Science,20,3,14,70,14.1,1,1,30000,60,71,Male,2,1,iOS,computer,6,TRUE,120,Math,TRUE,22
+Campus,Mechanical Engineering,20,9,13,200,7.1,3,5,58600,60,60,Female,32,39,iOS,gaming console,2,TRUE,60,Math,TRUE,22
+Campus,Mechanical Engineering,20,7,14,300,0.5,4,5,65000,60,62,Female,20,100,Android,computer,0,TRUE,6,Math,FALSE,22
+Online,Computer Science,30,9,16,150,0.6,4,2,70000,65,68,Male,16,100,iOS,gaming console,10,TRUE,157,Writing,TRUE,22
+Campus,Mechanical Engineering,25,3,16,60,0.5,5,8,60000,45,75,Male,11,107,Android,gaming console,20,TRUE,60,Math,TRUE,21
+Campus,Civil or CEM,7,6,16,200,2,3,2,60000,45,62,Female,15,60,iOS,computer,6,TRUE,30,Math,TRUE,21
+Campus,Computer Science,6,3,15,20,13,2,2,80000,50,72,Male,24,8,iOS,computer,4,TRUE,20,Math,TRUE,21
+Online,Computer Science,32,2,12,100,19,3,14,45000,0,60,Male,3,15,Android,computer,25,TRUE,15,Writing,TRUE,21
+Campus,Computer Science,20,3,15,70,213,2,2,50000,40,60,Female,11,93,iOS,nothing. I don't play video games.,0,TRUE,227,Math,TRUE,20
+Online,Computer Science,15,13,11,200,0.7,4,2,80000,0,69,Male,11,63,iOS,computer,12,TRUE,200,Math,TRUE,20
+Campus,Mechanical Engineering,40,7,13,150,0.5,5,2,50000,60,66,Male,5,0,Android,computer,10,TRUE,180,Math,TRUE,20
+Campus,"IE, ChemE or Other",20,3,17,250,0,1,1,70000,60,67,Female,15,270,iOS,nothing. I don't play video games.,0,TRUE,180,Math,TRUE,20
+Campus,Civil or CEM,20,9,10,200,80,1,2,50000,60,74,Male,10,4,iOS,nothing. I don't play video games.,0,TRUE,180,Math,TRUE,20
+Campus,Computer Science,20,6,14,100,15,1,3,70000,90,64,Female,14,50,Android,computer,5,TRUE,120,Math,TRUE,20
+Campus,Mechanical Engineering,12,5,15,500,2.4,2,4,50000,20,72,Male,8,20,Android,computer,6,TRUE,60,Math,TRUE,20
+Campus,Mechanical Engineering,50,6,16,120,456,4,4,75000,60,74,Male,9,20,iOS,phone,3,TRUE,60,Math,TRUE,20
+Campus,Mechanical Engineering,45,6,16,300,0.5,29,5,40000,30,71,Male,8,50,iOS,gaming console,1,TRUE,60,Math,TRUE,20
+Campus,Mechanical Engineering,40,6,15,300,1,5,5,80000,45,78,Male,9,10,iOS,gaming console,12,TRUE,45,Math,TRUE,20
+Campus,Computer Science,25,5,16,100,1,1,2,50000,60,70,Male,11,40,iOS,computer,40,FALSE,0,Math,TRUE,20
+Campus,"IE, ChemE or Other",30,5,15,300,2,3,3,80000,180,71,Male,20,80,iOS,computer,0.5,FALSE,0,Math,TRUE,20
+Campus,"IE, ChemE or Other",0,5,15,80,1.2,4,1,100000,20,67,Male,4,100,iOS,nothing. I don't play video games.,0,TRUE,120,Math,TRUE,19
+Campus,Mechanical Engineering,15,2,12,150,0.6,7,3,80000,60,72,Male,3,30,iOS,gaming console,14,TRUE,60,Math,TRUE,19
+Campus,Mechanical Engineering,30,6,17,150,2,4,4,65000,40,70,Male,13,41,iOS,phone,3,TRUE,45,Math,TRUE,19
+Campus,Computer Science,32,6,14,300,0.2,1,3,65000,30,69,Male,8,15,Android,computer,33,TRUE,40,Math,TRUE,19
+Campus,Mechanical Engineering,20,6,14,300,0.8,4,2,50000,60,70,Male,3,60,Android,phone,5,TRUE,30,Math,TRUE,19
+Online,Civil or CEM,35,5,14,500,0.6,1,3,60000,60,68,Male,12,2,Android,gaming console,1,TRUE,30,Math,TRUE,19
+Campus,Civil or CEM,20,4,13,150,1,50,3,65000,60,69,Male,5,15,iOS,gaming console,4,TRUE,75,Math,TRUE,18
+Campus,Mechanical Engineering,30,6,15,200,143,49,6,83500,1,72,Male,4,21,iOS,gaming console,2,TRUE,60,Math,TRUE,18
+Campus,Mechanical Engineering,25,6,14,150,9,3,1,90000,30,72,Male,6,60,iOS,computer,5,TRUE,10,Math,TRUE,18
+Campus,Mechanical Engineering,30,6,16,100,0.5,4,2,65000,40,72,Male,2,15,Android,computer,12,FALSE,0,Math,TRUE,18
+Campus,Civil or CEM,20,6,13,300,0.8,4,6,90000,90,76,Male,26,30,Android,computer,4,TRUE,2,Writing,TRUE,18
+Online,Civil or CEM,12,5,11,100,126,2,3,65000,0,71,Male,3,5,Android,computer,15,TRUE,180,Math,TRUE,17
+Campus,Computer Science,6,6,18,2500,1.8,1,1,85000,30,64,Female,3,65,iOS,gaming console,8,TRUE,120,Math,TRUE,17
+Campus,"IE, ChemE or Other",22,6,16,250,2,4,3,70000,60,73,Male,10,75,iOS,phone,2,TRUE,94,Math,TRUE,17
+Online,Mechanical Engineering,25,9,14,100,0.5,37,3,60000,60,71,Male,19,35,Android,computer,6,TRUE,60,Math,TRUE,17
+Campus,Mechanical Engineering,45,7,12,300,4.5,1,10,70000,45,69,Male,15,10,iOS,nothing. I don't play video games.,0,TRUE,60,Writing,TRUE,17
+Campus,Civil or CEM,20,9,12,500,0.6,3,2,70000,30,73,Male,20,30,iOS,gaming console,17,TRUE,120,Math,TRUE,16
+Online,Mechanical Engineering,10,6,15,100,880,4,2,60000,15,71,Male,10,50,iOS,gaming console,15,TRUE,120,Math,TRUE,16
+Online,Mechanical Engineering,10,6,15,400,0.1,4,4,60000,45,71,Male,10,10,iOS,computer,2,TRUE,120,Math,TRUE,16
+Campus,Mechanical Engineering,25,5,16,300,13,1,0,30000,15,75,Male,7,45,Android,computer,0,TRUE,90,Math,TRUE,16
+Campus,Mechanical Engineering,16,6,12,250,1,4,4,70000,30,70,Male,5,8,iOS,computer,22,TRUE,60,Math,TRUE,16
+Online,Mechanical Engineering,22,5,12,250,0.5,2,1,70000,60,69,Female,20,150,iOS,nothing. I don't play video games.,0,TRUE,60,Math,TRUE,16
+Campus,Mechanical Engineering,30,9,16,400,1.2,6,2,80000,4,72,Male,3,5,Android,computer,10,TRUE,30,Math,TRUE,16
+Campus,Computer Science,10,5,14,100,0.9,4,2,60000,1,70,Male,26,2,iOS,gaming console,5,TRUE,30,Math,TRUE,16
+Campus,Mechanical Engineering,16,3,15,300,73.7,1,3,80000,30,71,Male,34,50,iOS,phone,2,TRUE,20,Math,TRUE,16
+Campus,Mechanical Engineering,25,6,14,500,0,4,7,75000,10,64,Female,15,25,Android,nothing. I don't play video games.,0,TRUE,15,Math,TRUE,16
+Campus,Mechanical Engineering,41,6,17,250,1,0,5,50000,60,63,Female,36,34,iOS,nothing. I don't play video games.,0,FALSE,0,Writing,TRUE,16
+Campus,Civil or CEM,30,6,15,200,1,4,4,60000,30,67,Female,15,270,iOS,phone,4,TRUE,250,Math,TRUE,15
+Campus,Mechanical Engineering,40,6,13,150,15,50,1,110000,60,74,Male,15,250,iOS,nothing. I don't play video games.,0,TRUE,180,Math,TRUE,15
+Campus,Civil or CEM,20,3,13,250,1,2,2,60000,60,66.5,Female,12,10,iOS,computer,1,TRUE,150,Math,TRUE,15
+Online,Computer Science,20,3,17,6500,0,0,0,85000,30,65,Male,15,100,Android,computer,0,TRUE,120,Math,TRUE,15
+Campus,Computer Science,10,3,15,150,90,1,3,63000,60,63,Female,20,30,Android,phone,0,TRUE,120,Math,TRUE,15
+Campus,Computer Science,20,6,15,200,84,30,4,70000,60,62,Female,6,258,iOS,phone,0,TRUE,100,Math,TRUE,15
+Campus,Computer Science,23,3,15,300,0,1,4,80000,60,72,Male,15,30,iOS,gaming console,3,TRUE,90,Math,TRUE,15
+Campus,Civil or CEM,15,6,14,75,87,1,2,70000,40,75,Male,9,17,Android,gaming console,0,TRUE,90,Math,TRUE,15
+Campus,Mechanical Engineering,17,6,15,250,12,3,1,80000,0,71,Male,7,30,iOS,gaming console,20,TRUE,60,Math,TRUE,15
+Campus,Computer Science,0,16,17,60,2.5,4,4,75000,30,70,Male,10,5,iOS,computer,10,TRUE,60,Math,TRUE,15
+Campus,Mechanical Engineering,18,6,16,200,1,2,3,70000,45,75,Male,10,6,iOS,gaming console,4,TRUE,60,Math,TRUE,15
+Campus,Mechanical Engineering,40,6,16,300,70,4,3,80000,1,69,Male,20,5,iOS,computer,2,TRUE,60,Math,TRUE,15
+Campus,Mechanical Engineering,20,6,13,300,0.5,50,4,20000,30,66,Female,50,80,iOS,nothing. I don't play video games.,1,TRUE,60,Math,TRUE,15
+Campus,Mechanical Engineering,30,6,16,250,0.5,1,2,65000,60,74,Male,9,58,iOS,computer,10,TRUE,49,Math,TRUE,15
+Online,Mechanical Engineering,6,9,14,40,0.2,40,2,80000,60,74,Male,20,50,iOS,computer,2,TRUE,30,Math,TRUE,15
+Campus,Civil or CEM,20,9,14,350,3.3,1,5,80000,120,70,Male,13,25,iOS,computer,0,TRUE,15,Math,TRUE,15
+Online,Mechanical Engineering,10,3,16,13.3,90,2,4,60000,60,75,Male,2,10,Android,computer,0,FALSE,0,Math,TRUE,15
+Online,Civil or CEM,20,6,14,100,0,1,1,40000,40,65,Male,8,2,iOS,computer,14,TRUE,0,Writing,TRUE,15
+Campus,Civil or CEM,30,9,13,200,0.7,40,3,65000,45,72,Male,22,50,iOS,phone,1,TRUE,120,Math,TRUE,14
+Campus,Civil or CEM,26,6,16,200,0.5,3,1,60000,15,70,Male,7,10,iOS,gaming console,0,TRUE,90,Math,TRUE,14
+Campus,Mechanical Engineering,25,7,16,436,0.6,2,5,60000,45,68,Female,32,4,iOS,computer,7,TRUE,70,Math,TRUE,14
+Campus,Civil or CEM,25,3,14,350,0.4,1,4,60000,30,69,Male,8,20,iOS,gaming console,8,TRUE,60,Math,TRUE,14
+Campus,"IE, ChemE or Other",5,12,17,150,0.6,5,5,40000,15,68,Male,10,97,iOS,nothing. I don't play video games.,0,TRUE,60,Math,TRUE,14
+Online,Mechanical Engineering,8,6,16,160,2.2,2,0,50000,15,72,Male,6,0,Android,gaming console,5,TRUE,30,Math,TRUE,14
+Campus,Computer Science,24,6,14,40,1,1,2,100000,40,71,Male,14,100,iOS,computer,24,TRUE,1,Math,TRUE,14
+Campus,Mechanical Engineering,12,6,14,40,30,1,4,60000,1,73,Male,5,10,Android,computer,5,FALSE,0,Math,TRUE,14
+Campus,"IE, ChemE or Other",18,8,13,100,0.8,1,7,50000,5,69,Female,9,60,iOS,nothing. I don't play video games.,0,TRUE,120,Writing,TRUE,14
+Campus,Computer Science,7,3,14,100,36,3,2,60000,30,72,Male,2,22,Android,computer,26.2,TRUE,0,Writing,TRUE,14
+Campus,Mechanical Engineering,32,6,17,300,1,3,1,50000,40,72,Male,9,25,iOS,computer,6,TRUE,90,Math,TRUE,13
+Campus,Civil or CEM,20,6,15,100,0.9,3,3,70000,50,70,Male,16,21,Android,gaming console,3,TRUE,90,Math,TRUE,13
+Campus,Civil or CEM,20,6,13,150,0.9,1,4,58000,30,65,Female,8,75,iOS,nothing. I don't play video games.,0,TRUE,90,Math,TRUE,13
+Campus,Computer Science,20,6,16,100,1,1,6,80000,60,72,Male,3,5,Android,computer,20,TRUE,60,Math,TRUE,13
+Campus,Computer Science,45,6,15,50,0.7,4,4,55000,30,72,Male,15,30,iOS,nothing. I don't play video games.,2,TRUE,30,Math,TRUE,13
+Campus,Civil or CEM,30,6,17,600,90,42,2,56000,20,74,Male,4,200,iOS,gaming console,1,TRUE,15,Math,TRUE,13
+Campus,Mechanical Engineering,60,6,15,300,1.2,1,2,60000,100,73,Male,14,30,iOS,gaming console,1,TRUE,10,Math,TRUE,13
+Campus,Computer Science,15,3,14,200,70,1,1,60000,30,64,Male,18,100,Android,computer,10,FALSE,0,Math,TRUE,13
+Campus,Computer Science,35,3,15,200,72.6,1,3,80000,0,70,Female,24,55,Android,computer,1,FALSE,0,Math,TRUE,13
+Campus,Computer Science,20,6,18,250,0.8,1,3,40000,45,65,Female,17,103,iOS,phone,10,TRUE,120,Writing,TRUE,13
+Campus,Mechanical Engineering,50,11,16,150,0.1,0,3,91500,60,71,Female,38,5,Android,gaming console,0,TRUE,120,Writing,TRUE,13
+Campus,Computer Science,10,6,16,100,2,3,2,45000,70,65,Male,19,3,iOS,gaming console,4,TRUE,15,Writing,TRUE,13
+Campus,Mechanical Engineering,8,6,16,200,0,1,1,50000,20,66,Male,9,38,Android,computer,6,FALSE,0,Writing,TRUE,13
+Campus,Mechanical Engineering,12,3,12,350,0.6,4,10,48000,30,70,Male,11,37,Android,gaming console,6,TRUE,240,Math,TRUE,12
+Campus,Civil or CEM,25,7,14,100,12,3,2,55000,60,64,Female,10,200,iOS,nothing. I don't play video games.,0,TRUE,240,Math,TRUE,12
+Campus,Computer Science,17,3,16,200,395,1,2,89000,60,73,Male,16,103,Android,computer,14,TRUE,180,Math,TRUE,12
+Campus,Mechanical Engineering,10,12,15,100,3.2,3,4,100000,30,74,Male,10,30,iOS,computer,5,TRUE,120,Math,TRUE,12
+Online,Mechanical Engineering,25,11,16,400,1,4,6,100000,60,70,Male,19,150,iOS,gaming console,4,TRUE,120,Math,TRUE,12
+Online,Mechanical Engineering,30,6,16,150,0.6,2,3,65000,60,63,Female,16,30,iOS,computer,0,TRUE,120,Math,TRUE,12
+Online,Mechanical Engineering,10,6,13,300,0.8,60,4,60000,30,69,Female,2,25,iOS,phone,0,TRUE,120,Math,TRUE,12
+Campus,Computer Science,25,6,16,150,0.6,3,3,75000,65,68,Female,10,2,iOS,gaming console,0,TRUE,120,Math,TRUE,12
+Online,Civil or CEM,15,2,12,500,95,3,2,60000,2,72,Male,8,12,iOS,gaming console,10,TRUE,110,Math,TRUE,12
+Campus,Mechanical Engineering,20,6,13,200,90,3,2,60000,90,73,Male,7,27,iOS,gaming console,10,TRUE,90,Math,TRUE,12
+Campus,Civil or CEM,12,6,13,200,1,42,2,60000,60,73,Male,4,28,Android,gaming console,2,TRUE,90,Math,TRUE,12
+Campus,Mechanical Engineering,30,6,15,200,1,6,1,60000,20,76,Male,15,50,Android,computer,15,TRUE,80,Math,TRUE,12
+Campus,Mechanical Engineering,50,3,13,1000,20,1,6,50000,20,82,Male,26,120,Android,computer,0,TRUE,60,Math,TRUE,12
+Online,Civil or CEM,50,6,15,250,2,3,2,55000,45,75,Male,7,5,Android,nothing. I don't play video games.,0,TRUE,30,Math,TRUE,12
+Campus,Mechanical Engineering,12,14,13,200,1,5,3,50000,30,67,Male,14,8,iOS,nothing. I don't play video games.,0,TRUE,30,Math,TRUE,12
+Campus,Computer Science,25,3,15,200,0,1,4,90000,20,75,Male,16,4,iOS,computer,8,TRUE,15,Math,TRUE,12
+Campus,Mechanical Engineering,26,6,17,200,0,2,2,67500,20,70,Female,3,29,iOS,computer,0,TRUE,15,Math,TRUE,12
+Campus,Mechanical Engineering,20,2,13,200,0,2,2,25000,60,71,Male,21,2,iOS,gaming console,20,TRUE,5,Math,TRUE,12
+Campus,"IE, ChemE or Other",25,6,13,200,1,3,5,60000,2,68,Male,10,100,iOS,gaming console,0,TRUE,5,Math,TRUE,12
+Campus,Mechanical Engineering,30,6,14,150,25,0,2,60000,30,71,Male,9,250,iOS,computer,9,FALSE,0,Math,TRUE,12
+Campus,Mechanical Engineering,16,4,12,200,0.6,5,7,70000,60,75,Male,8,18,Android,gaming console,5,FALSE,0,Math,TRUE,12
+Campus,Mechanical Engineering,8,8,15,650,1.4,1,5,50000,30,71,None of the above,13,4,iOS,gaming console,3,FALSE,0,Math,TRUE,12
+Campus,Civil or CEM,20,6,14,125,10,4,4,50000,60,74,Male,17,2,Android,nothing. I don't play video games.,0,FALSE,0,Math,TRUE,12
+Campus,Computer Science,9,9,12,300,10,2,0,20000,180,67,Male,4,20,Android,computer,10,TRUE,180,Writing,TRUE,12
+Campus,Mechanical Engineering,15,9,14,200,0.3,20,2,65000,0,70,Male,17,40,iOS,gaming console,2,TRUE,90,Writing,TRUE,12
+Campus,Computer Science,20,3,14,100,0,0,1,60000,0,67,Male,13,2,Android,computer,4,TRUE,180,Math,TRUE,11
+Online,Computer Science,13,6,16,70,0.4,3,2,58000,80,63,Female,27,12,iOS,phone,1,TRUE,120,Math,TRUE,11
+Online,Computer Science,25,3,15,150,41.4,6,2,65000,30,67,Male,11,200,iOS,gaming console,5,TRUE,80,Math,TRUE,11
+Campus,Civil or CEM,30,3,17,150,1.5,1,1,50000,0,70,Female,4,30,Android,computer,12,TRUE,60,Math,TRUE,11
+Campus,Computer Science,30,6,14,350,2,2,1,90000,45,72,Male,15,20,iOS,computer,10,TRUE,60,Math,TRUE,11
+Online,Mechanical Engineering,16,9,15,60,0.5,1,1,50000,120,75,Male,5,7,Android,gaming console,4,TRUE,60,Math,TRUE,11
+Online,"IE, ChemE or Other",20,8,13,600,0.5,4,4,80000,30,74,Male,15,30,iOS,phone,5,TRUE,45,Math,TRUE,11
+Campus,Computer Science,30,9,15,500,2.5,4,4,30000,0,72,Male,9,6,Android,computer,6,FALSE,0,Math,TRUE,11
+Online,Computer Science,30,6,18,100,0.2,1,1,70000,0,72,Male,9,6,Android,phone,5,TRUE,0,Math,TRUE,11
+Campus,Computer Science,25,6,15,50,2,4,1,60000,45,69,Male,3,50,iOS,gaming console,2,TRUE,120,Writing,TRUE,11
+Campus,Civil or CEM,20,7,13,50,1,2,1,64000,60,70,Female,14,50,iOS,phone,0,TRUE,90,Writing,TRUE,11
+Campus,"IE, ChemE or Other",10,13,13,200,0.8,5,5,60000,0,63,Female,15,100,iOS,phone,2,TRUE,360,Math,TRUE,10
+Online,Mechanical Engineering,40,8,16,400,15,3,7,75000,50,63,Female,50,30,iOS,nothing. I don't play video games.,0,TRUE,150,Math,TRUE,10
+Campus,Civil or CEM,20,6,17,100,2.2,3,2,60000,60,70,Male,8,10,Android,gaming console,4,TRUE,120,Math,TRUE,10
+Campus,Civil or CEM,25,6,16,200,0.9,3,3,65000,60,70,Male,10,70,iOS,gaming console,3,TRUE,120,Math,TRUE,10
+Online,Mechanical Engineering,25,1,14,600,56,3,3,65000,45,69,Female,11,97,iOS,gaming console,2,TRUE,120,Math,TRUE,10
+Campus,Computer Science,24.5,3,14,300,5,1,3,100000,120,64,Female,50,600,iOS,phone,1,TRUE,120,Math,TRUE,10
+Campus,Mechanical Engineering,55,6,19,0,1389,4,3,80000,120,71,Female,29,200,iOS,nothing. I don't play video games.,0,TRUE,120,Math,TRUE,10
+Online,"IE, ChemE or Other",0,6,15,200,10,3,1,80000,90,72,Male,5,10,iOS,gaming console,0,TRUE,120,Math,TRUE,10
+Campus,Mechanical Engineering,18,4,14,150,2,4,3,70000,30,77,Male,7,20,Android,computer,16,TRUE,80,Math,TRUE,10
+Campus,Computer Science,35,3,17,50,0,0,2,50000,0,69,Male,10,100,Android,computer,15,TRUE,60,Math,TRUE,10
+Campus,Mechanical Engineering,30,6,15,200,0.6,4,0,70000,30,70,Male,12,5,iOS,gaming console,10,TRUE,60,Math,TRUE,10
+Campus,Mechanical Engineering,24,6,18,300,13.2,3,3,36500,360,68,Male,8,250,Android,computer,3,TRUE,60,Math,TRUE,10
+Campus,Civil or CEM,24,6,15,350,2206,2,4,90000,50,71,Male,21,40,iOS,nothing. I don't play video games.,0,TRUE,60,Math,TRUE,10
+Campus,Civil or CEM,4,2,16,200,500,2,3,75000,1,69,Male,10,40,iOS,nothing. I don't play video games.,0,TRUE,60,Math,TRUE,10
+Campus,Mechanical Engineering,12,6,14,400,2,3,6,60000,45,66,Male,5,3,iOS,computer,0,TRUE,60,Math,TRUE,10
+Campus,Mechanical Engineering,11,6,14,200,10,3,2,65000,60,69,Male,13,50,iOS,computer,6,TRUE,45,Math,TRUE,10
+Campus,Mechanical Engineering,30,4,14,100,0.3,1,5,80000,30,74,Male,14,40,Android,computer,4,TRUE,40,Math,TRUE,10
+Online,Mechanical Engineering,30,6,19,400,5,4,3,60000,120,73,Male,28,20,iOS,gaming console,3,TRUE,35,Math,TRUE,10
+Campus,Computer Science,20,6,12,200,0.6,0,5,80000,60,70,Male,13,0,Android,computer,5,TRUE,30,Math,TRUE,10
+Campus,Mechanical Engineering,20,3,16,100,0.7,3,6,50000,60,72,Male,15,30,Android,gaming console,3,TRUE,30,Math,TRUE,10
+Campus,Computer Science,16,3,14,200,81,1,1,90000,5,68,Male,10,6,Android,gaming console,0,TRUE,30,Math,TRUE,10
+Campus,Civil or CEM,45,6,16,200,0.7,0,2,60000,30,73,Male,12,5,Android,nothing. I don't play video games.,0,TRUE,30,Math,TRUE,10
+Campus,Mechanical Engineering,15,3,10,150,1.4,5,4,60000,30,70,None of the above,6,10,Android,computer,5,TRUE,19,Math,TRUE,10
+Online,Mechanical Engineering,0,6,9,1000,4,2,2,80000,70,72,Male,14,27,Android,computer,0,TRUE,15,Math,TRUE,10
+Online,Mechanical Engineering,2,6,3,600,12.7,1,5,75000,145,75,Male,8,30,Android,gaming console,16,TRUE,10,Math,TRUE,10
+Campus,Computer Science,25,5,10,200,1,1,10,150000,90,72,Male,8,9,iOS,computer,10,TRUE,10,Math,TRUE,10
+Campus,Computer Science,15,8,12,100,0.7,4,4,70000,0,72.5,Male,12,250,Android,computer,2,TRUE,1,Math,TRUE,10
+Campus,Mechanical Engineering,30,11,13,100,1,3,3,50000,10,72,Male,6,10,Android,computer,20,FALSE,0,Math,TRUE,10
+Online,Mechanical Engineering,14,7,16,500,3,5,2,63000,12,71,Male,6,2,iOS,computer,20,FALSE,0,Math,TRUE,10
+Campus,Mechanical Engineering,19,1,10,400,0.2,4,3,51000,480,62,Female,7,13,Android,nothing. I don't play video games.,0,FALSE,0,Math,TRUE,10
+Campus,Mechanical Engineering,35,6,15,300,0.2,1,3,50000,60,72,Male,16,3,iOS,computer,16,TRUE,0,Math,TRUE,10
+Campus,Computer Science,22,6,16,100,0,0,1,20000,0,70,Female,3,0,Android,computer,12,TRUE,60,Writing,TRUE,10
+Online,Mechanical Engineering,50,7,13,400,1.5,2,2,60000,1,68,Male,4,4,Android,computer,5,TRUE,60,Writing,TRUE,10
+Online,Computer Science,18,10,12,50,1.8,3,1,70000,45,72,Male,5,25,Android,computer,18,TRUE,30,Writing,TRUE,10
+Online,Computer Science,15,3,14,200,1.5,1,3,50000,40,70,Male,4,5,iOS,computer,5,TRUE,20,Writing,TRUE,10
+Campus,"IE, ChemE or Other",5,8,10,100,0.6,1,4,65000,30,65,Female,6,70,iOS,gaming console,0,TRUE,360,Math,TRUE,9
+Campus,Mechanical Engineering,3,5,13,150,16,6,1,70000,180,70,Male,11,100,Android,computer,4,TRUE,240,Math,FALSE,9
+Online,Computer Science,50,6,15,200,80,40,6,60000,60,76,Male,2,100,iOS,gaming console,30,TRUE,180,Math,TRUE,9
+Campus,Civil or CEM,25,6,14,200,11.3,4,3,78000,20,74,Male,3,50,Android,gaming console,21,TRUE,180,Math,TRUE,9
+Campus,"IE, ChemE or Other",8,9,14,50,1.5,4,3,70000,60,72,Male,11,50,Android,computer,4,TRUE,120,Math,TRUE,9
+Campus,Computer Science,24,6,15,200,1,6,2,80000,60,61,Female,20,100,iOS,nothing. I don't play video games.,0,TRUE,108,Math,TRUE,9
+Campus,Mechanical Engineering,18,6,15,250,0.5,3,2,60000,20,67,Female,15,100,iOS,nothing. I don't play video games.,0,TRUE,60,Math,TRUE,9
+Online,Computer Science,5,2,15,100,566,3,6,100000,30,70,Male,5,3,Android,computer,10,TRUE,40,Math,TRUE,9
+Campus,Civil or CEM,30,6,16,400,4,5,2,80000,60,70,Male,40,100,iOS,gaming console,0,TRUE,40,Math,TRUE,9
+Campus,Mechanical Engineering,25,7,16,100,1,12,2,50000,45,68.5,Female,40,5,iOS,gaming console,0,TRUE,35,Math,TRUE,9
+Campus,Mechanical Engineering,24,9,17,300,0.7,4,2,65000,10,72,Male,8,3,iOS,gaming console,10,TRUE,30,Math,TRUE,9
+Online,Mechanical Engineering,30,6,16,200,11,1,1,58000,30,70,Male,15,5,iOS,gaming console,10,TRUE,20,Math,TRUE,9
+Online,Mechanical Engineering,20,6,16,150,0.5,4,3,63000,30,74,Male,12,22,iOS,computer,0,TRUE,20,Math,TRUE,9
+Campus,Computer Science,11,6,18,120,644,1,0,40000,0,60,Male,5,0,Android,computer,4,TRUE,10,Math,TRUE,9
+Campus,Civil or CEM,20,6,16,250,1,3,6,60000,30,69,Female,8,75,iOS,nothing. I don't play video games.,0,TRUE,120,Writing,TRUE,9
+Online,Civil or CEM,10,6,14,150,140,4,1,54040,45,63,Female,5,40,iOS,phone,5,TRUE,420,Math,TRUE,8
+Campus,Civil or CEM,25,6,14,150,3060,6,2,50000,45,71,Male,2,14,iOS,phone,0.5,TRUE,240,Math,TRUE,8
+Campus,Computer Science,30,6,17,300,579,4,4,45000,120,72,Male,9,30,iOS,gaming console,7,TRUE,180,Math,TRUE,8
+Campus,Computer Science,15,12,20,200,0.3,5,0,30000,60,71,Male,12,50,iOS,gaming console,10,TRUE,120,Math,FALSE,8
+Campus,Civil or CEM,25,7,18,4000,10,4,4,60000,20,73,Male,17,50,iOS,gaming console,5,TRUE,120,Math,TRUE,8
+Campus,Civil or CEM,15,9,12,240,321,5,4,45000,30,75,Male,9,40,iOS,gaming console,4,TRUE,120,Math,TRUE,8
+Campus,Civil or CEM,20,3,20,100,0,1,3,65000,15,66,Female,10,15,iOS,nothing. I don't play video games.,0,TRUE,120,Math,TRUE,8
+Campus,Mechanical Engineering,20,5,16,100,0.8,4,5,65000,30,76,Male,15,10,Android,gaming console,0,TRUE,90,Math,TRUE,8
+Campus,Civil or CEM,22,6,17,150,13,5,4,60000,30,65,Female,22,60,iOS,gaming console,10,TRUE,80,Math,TRUE,8
+Campus,Mechanical Engineering,35,12,12,200,7,3,2,50000,10,69,Male,8,12,iOS,computer,6,TRUE,60,Math,FALSE,8
+Campus,Civil or CEM,24,2,10,200,5,0,0,20000,1,70,Male,8,50,iOS,gaming console,5,TRUE,60,Math,FALSE,8
+Campus,Civil or CEM,35,6,14,150,330,11,1,60000,20,62,Female,21,20,iOS,gaming console,5,TRUE,60,Math,TRUE,8
+Campus,Computer Science,50,6,17,300,1.7,4,2,95000,20,70,Male,4,100,iOS,computer,3,TRUE,60,Math,TRUE,8
+Campus,Computer Science,24,6,17,100,0.2,4,3,70000,80,66,Male,11,8,iOS,nothing. I don't play video games.,0,TRUE,60,Math,TRUE,8
+Campus,Civil or CEM,13,11,17,200,2610,2,4,60000,120,70,Male,6,8,iOS,gaming console,0,TRUE,60,Math,TRUE,8
+Campus,Civil or CEM,15,6,13,500,15,0,2,30000,45,70,Male,6,2,Android,gaming console,6,TRUE,40,Math,FALSE,8
+Campus,Civil or CEM,20,6,15,50,3.1,4,7,50000,30,69,Male,42,50,Android,gaming console,0,TRUE,30,Math,FALSE,8
+Online,Civil or CEM,10,6,15,50,3.1,4,7,50000,30,69,Male,42,50,Android,gaming console,0,TRUE,30,Math,FALSE,8
+Online,Mechanical Engineering,10,2,6,220,87.4,1,7,60000,10,75,Male,3,26,Android,nothing. I don't play video games.,0,TRUE,15,Math,TRUE,8
+Campus,Computer Science,5,7,19,300,1.5,3,1,60000,80,72,Male,15,50,Android,computer,1,FALSE,0,Math,TRUE,8
+Campus,Civil or CEM,10,6,14,100,0.7,2,1,60000,20,78,Male,40,35,Android,gaming console,0,TRUE,60,Writing,TRUE,8
+Online,Civil or CEM,30,15,14,200,1.5,1,1,50000,60,69,Male,4,50,iOS,phone,5,TRUE,50,Writing,FALSE,8
+Campus,Mechanical Engineering,35,6,15,275,36,3,1,61000,35,70,Male,4,10,Android,computer,8,TRUE,25,Writing,TRUE,8
+Online,Computer Science,6,22,12,100,0.6,1,2,48000,150,70,Male,25,50,iOS,computer,15,TRUE,300,Math,FALSE,7
+Campus,Civil or CEM,15,6,15,50,1,4,2,60000,50,75,Male,15,20,Android,gaming console,16,TRUE,240,Math,TRUE,7
+Campus,Computer Science,10,6,14,50,0.8,2,2,40000,40,65,Female,19,175,iOS,gaming console,0,TRUE,180,Math,TRUE,7
+Campus,Computer Science,17,9,15,250,0.3,3,0,80000,60,73.2,Male,23,0,iOS,computer,6,TRUE,150,Math,FALSE,7
+Campus,Computer Science,14,3,19,120,0,1,1,70000,60,71,Male,13,100,Android,nothing. I don't play video games.,0,TRUE,150,Math,FALSE,7
+Campus,Mechanical Engineering,30,5,14,100,5,0,0,60000,20,70.8,Male,10,1,iOS,nothing. I don't play video games.,1,TRUE,120,Math,FALSE,7
+Campus,Mechanical Engineering,12,12,14,250,2,2,4,80000,120,72,Male,15,9,Android,gaming console,0,TRUE,120,Math,TRUE,7
+Campus,Civil or CEM,33,3,17,200,83,1,4,60000,90,71,Female,4,0,Android,gaming console,3,TRUE,75,Math,TRUE,7
+Campus,Computer Science,12,6,14,200,0.4,68,3,50000,60,72,Male,18,130,iOS,gaming console,1,TRUE,70,Math,TRUE,7
+Campus,Computer Science,15,9,14,50,0.9,3,1,80000,90,71,Male,5,1,iOS,computer,5,TRUE,65,Math,FALSE,7
+Campus,Computer Science,15,3,11,100,1,0,3,60000,40,73,Male,4,6,iOS,computer,40,TRUE,60,Math,TRUE,7
+Campus,Computer Science,5,6,18,200,0,3,2,40000,15,69,Male,5,3,Android,computer,10,TRUE,60,Math,TRUE,7
+Campus,Computer Science,21,6,16,250,0.5,1,3,90000,10,70,Male,18,50,iOS,gaming console,6,TRUE,60,Math,TRUE,7
+Campus,Mechanical Engineering,17,6,15,200,0.2,22,1,60000,20,72,Male,8,100,iOS,gaming console,11,TRUE,45,Math,TRUE,7
+Campus,Mechanical Engineering,4,7,16,400,0.3,1,1,60000,1.5,70,Male,10,5,Android,computer,1,TRUE,40,Math,TRUE,7
+Campus,Civil or CEM,32,6,16,300,1,1,3,40000,120,69,Male,30,50,iOS,gaming console,3,TRUE,30,Math,TRUE,7
+Campus,Mechanical Engineering,20,9,12,300,1.5,3,5,65000,60,71,Male,5,5,Android,gaming console,2,TRUE,30,Math,TRUE,7
+Campus,Computer Science,16,6,12,200,0.6,2,3,60000,30,66,Male,12,30,iOS,gaming console,5,TRUE,20,Math,TRUE,7
+Campus,Mechanical Engineering,20,6,16,100,2,3,2,40000,0,67,Male,16,2,Other,gaming console,10,TRUE,5,Math,TRUE,7
+Campus,Mechanical Engineering,30,6,14,175,3.2,3,0,60000,75,66,Male,6,10,Android,nothing. I don't play video games.,0,TRUE,3,Math,TRUE,7
+Campus,Computer Science,30,8,14,75,1.5,3,0,15000,80,68,Male,15,30,Android,computer,60,FALSE,0,Math,FALSE,7
+Campus,Computer Science,25,3,14,150,0.2,1,1,78000,20,75,Male,14,13,iOS,computer,20,FALSE,0,Math,TRUE,7
+Campus,Computer Science,40,3,20,80,5,0,0,70000,15,68,Male,6,100,iOS,computer,14,FALSE,0,Math,TRUE,7
+Campus,"IE, ChemE or Other",20,9,13,20,0.4,1,5,63000,5,74,Male,6,6,Android,gaming console,12,FALSE,0,Math,TRUE,7
+Campus,Mechanical Engineering,6,6,16,400,2600,4,1,80000,60,73,Male,8,63,iOS,gaming console,8,FALSE,0,Math,TRUE,7
+Campus,Computer Science,40,3,16,200,0.4,1,1,60000,20,69,Male,19,5,Android,gaming console,6,FALSE,0,Math,TRUE,7
+Campus,Computer Science,36,3,13,100,0,1,2,78000,10,75,Male,19,6,iOS,computer,5,FALSE,0,Math,TRUE,7
+Campus,Civil or CEM,10,2,13,200,0.6,4,4,60000,240,72,Male,12,0,I dont have a cellphone.,nothing. I don't play video games.,0,FALSE,0,Math,FALSE,7
+Campus,Mechanical Engineering,3,3,17,100,75,1,1,70000,20,72,Male,10,30,Android,phone,2,TRUE,0,Math,TRUE,7
+Online,Civil or CEM,10,9,14,150,140,4,2,60000,30,67,Male,21,55,iOS,gaming console,4,TRUE,300,Writing,TRUE,7
+Campus,Mechanical Engineering,30,7,15,500,1,4,0,60000,60,67,Male,15,30,iOS,phone,2,TRUE,120,Writing,FALSE,7
+Campus,Mechanical Engineering,40,6,16,300,0.6,2,2,58600,100,67,Female,3,30,iOS,nothing. I don't play video games.,0,TRUE,120,Writing,TRUE,7
+Campus,Computer Science,20,6,15,300,0.9,3,2,60000,50,72,Male,14,10,Android,computer,1,TRUE,70,Writing,TRUE,7
+Campus,Mechanical Engineering,20,9,15,300,1.75,3,2,30000,0,66,Female,25,30,Android,computer,0,TRUE,30,Writing,TRUE,7
+Campus,Computer Science,3,5,17,100,0.5,1,3,70000,30,69,Male,32,4,Android,gaming console,0,TRUE,5,Writing,FALSE,7
+Campus,Computer Science,5,6,14,70,1.4,3,2,60000,0,68,Male,6,0,Android,computer,0,FALSE,0,Writing,TRUE,7
+Campus,Computer Science,20,3,16,200,80,1,1,50000,90,61,Female,90,50,iOS,nothing. I don't play video games.,0,TRUE,400,Math,TRUE,6
+Online,Civil or CEM,2,6,15,300,3,50,4,75000,60,66,Female,42,50,iOS,nothing. I don't play video games.,0,TRUE,240,Math,TRUE,6
+Campus,Computer Science,3,3,15,200,0.8,1,1,90120,7,67,Male,13,8,iOS,computer,2,TRUE,180,Math,TRUE,6
+Campus,Mechanical Engineering,3,7,13,200,1.61,1,8,65000,100,71,Male,19,75,iOS,gaming console,12,TRUE,143,Math,TRUE,6
+Online,Computer Science,16,6,16,120,1,0,3,70000,40,69,Male,5,10,Android,computer,30,TRUE,120,Math,TRUE,6
+Online,Mechanical Engineering,40,10,12,200,6272,5,0,25000,90,71,Male,6,4,iOS,gaming console,2,TRUE,120,Math,FALSE,6
+Online,"IE, ChemE or Other",30,12,12,200,22.2,1,5,70000,20,72,Female,12,32,Android,phone,1.5,TRUE,120,Math,TRUE,6
+Campus,Computer Science,30,3,14,300,0,1,1,65000,10,66,Female,15,150,iOS,computer,1,TRUE,120,Math,TRUE,6
+Campus,Mechanical Engineering,30,11,12,200,5,5,0,30000,90,71,Male,7,4,iOS,gaming console,1,TRUE,120,Math,FALSE,6
+Campus,Computer Science,30,3,18,200,1.5,1,1,70000,30,71,None of the above,16,264,iOS,nothing. I don't play video games.,0.5,TRUE,120,Math,TRUE,6
+Online,Mechanical Engineering,20,6,14,250,1,0,5,65000,90,71,Male,3,50,iOS,nothing. I don't play video games.,0,TRUE,120,Math,TRUE,6
+Online,Mechanical Engineering,10,10,15,25,5,3,0,70000,140,64,Male,12,10,iOS,gaming console,0,TRUE,120,Math,FALSE,6
+Online,Civil or CEM,40,4,16,500,0.5,4,2,25000,45,73,Male,11,13,iOS,gaming console,2,TRUE,100,Math,TRUE,6
+Campus,Mechanical Engineering,15,6,16,100,2.3,3,1,60000,30,68,Male,22,15,Android,phone,3,TRUE,90,Math,TRUE,6
+Online,"IE, ChemE or Other",27,6,17,800,1,40,1,70000,60,73,Male,13,119,iOS,nothing. I don't play video games.,1,TRUE,90,Math,TRUE,6
+Campus,Mechanical Engineering,15,6,16,200,1,50,3,50000,60,75,Male,6,50,iOS,gaming console,1,TRUE,90,Math,TRUE,6
+Campus,Mechanical Engineering,4,3,12,100,5,1,1,50000,30,69,Male,15,15,iOS,computer,10,TRUE,60,Math,TRUE,6
+Campus,Mechanical Engineering,24,6,19,150,89,3,4,60000,150,72,Male,16,11,Android,computer,4,TRUE,60,Math,TRUE,6
+Campus,Mechanical Engineering,9,9,16,600,2,6,2,70000,45,64,Male,32,70,iOS,computer,3,TRUE,60,Math,TRUE,6
+Campus,"IE, ChemE or Other",16,9,16,100,210,4,6,40000,120,64,Female,7,17,iOS,nothing. I don't play video games.,0,TRUE,60,Math,TRUE,6
+Campus,Mechanical Engineering,26,6,16,300,1.1,3,2,63000,300,72,Male,6,15,iOS,nothing. I don't play video games.,1,TRUE,45,Math,TRUE,6
+Campus,Mechanical Engineering,19,6,16,100,15,3,3,60000,60,69,Male,10,100,iOS,computer,6,TRUE,40,Math,TRUE,6
+Campus,Computer Science,26,12,14,200,0.4,3,0,90000,20,69,Male,8,0,Android,gaming console,3,TRUE,40,Math,FALSE,6
+Campus,Civil or CEM,15,6,15,200,140,50,3,60000,60,73,Male,15,10,iOS,gaming console,2,TRUE,30,Math,TRUE,6
+Campus,Mechanical Engineering,23,3,15,250,129,1,3,65000,15,65,Female,14,5,iOS,nothing. I don't play video games.,0,TRUE,30,Math,TRUE,6
+Campus,Computer Science,40,6,14,13,75,3,0,90000,80,69,Male,5,5,iOS,computer,0,TRUE,30,Math,TRUE,6
+Campus,Computer Science,10,3,13,300,85,1,2,50000,60,65,Male,4,20,iOS,computer,20,TRUE,20,Math,TRUE,6
+Campus,Computer Science,15,3,19,60,1,1,2,60000,40,71,Male,3,8,iOS,computer,1,TRUE,20,Math,FALSE,6
+Campus,Mechanical Engineering,28,7,10,500,2.3,0,5,50000,240,72,Male,6,0,Android,gaming console,3,TRUE,15,Math,TRUE,6
+Campus,Computer Science,30,6,16,50,1732,4,1,70000,90,70,Male,6,5,Android,computer,1,TRUE,10,Math,TRUE,6
+Campus,Civil or CEM,10,5,12,500,5,5,1,90000,100,74,Male,30,0,iOS,phone,0,TRUE,3,Math,TRUE,6
+Campus,Civil or CEM,18,6,13,250,173,0,3,80000,20,71,Male,8,1,iOS,gaming console,20,FALSE,0,Math,TRUE,6
+Campus,Computer Science,70,6,19,210,0,0,0,20000,70,73,Male,14,300,Android,phone,15,FALSE,0,Math,FALSE,6
+Campus,Computer Science,10,3,15,150,5,50,2,70000,0,72,Male,13,3,iOS,gaming console,10,TRUE,0,Math,TRUE,6
+Campus,Civil or CEM,30,6,13,500,89.2,67,3,80000,60,75,Male,6,12,iOS,gaming console,1,TRUE,60,Writing,TRUE,6
+Campus,Mechanical Engineering,25,6,16,100,0.4,0,2,52000,90,67,Male,4,50,Android,computer,6,TRUE,200,Math,FALSE,5
+Campus,Mechanical Engineering,18,6,16,160,10,1,4,60000,1,72,Male,6,20,iOS,gaming console,3,TRUE,180,Math,TRUE,5
+Campus,Computer Science,10,2,18,200,75,1,1,60000,20,68,Male,7,3,Android,computer,0,TRUE,180,Math,FALSE,5
+Campus,Computer Science,5,6,12,100,97.6,1,2,60000,30,67,Male,23,70,iOS,computer,4,TRUE,120,Math,TRUE,5
+Campus,Mechanical Engineering,20,6,15,40,0.1,47,4,60000,30,72,Male,13,15,iOS,gaming console,1,TRUE,120,Math,TRUE,5
+Campus,Civil or CEM,17,6,16,120,0.5,1,0,50000,90,62,Female,4,40,iOS,nothing. I don't play video games.,0,TRUE,120,Math,FALSE,5
+Online,Civil or CEM,20,3,14,300,5629,2,10,75000,60,75,Male,15,2,iOS,gaming console,2,TRUE,100,Math,TRUE,5
+Campus,Civil or CEM,50,6,15,300,147,4,2,65000,120,68,Male,40,20,iOS,nothing. I don't play video games.,0,TRUE,100,Math,TRUE,5
+Campus,Computer Science,20,6,17,300,0.4,70,4,75000,130,68,Male,20,50,iOS,gaming console,10,TRUE,90,Math,TRUE,5
+Campus,Computer Science,18,3,15,200,561,0,2,70000,45,70,Male,8,7,iOS,computer,3,TRUE,90,Math,TRUE,5
+Campus,Computer Science,14,3,15,250,90,2,2,65000,45,66,Male,15,50,Android,gaming console,2,TRUE,90,Math,TRUE,5
+Campus,Mechanical Engineering,35,6,14,150,0.6,3,1,70000,60,66,Male,24,170,Android,computer,0.5,TRUE,90,Math,FALSE,5
+Campus,Civil or CEM,15,6,15,250,3,52,4,75000,100,60,Female,7,20,iOS,nothing. I don't play video games.,0,TRUE,80,Math,TRUE,5
+Campus,Computer Science,10,7,11,150,0.4,3,2,63000,15,65,Female,21,4,Android,computer,15,TRUE,60,Math,TRUE,5
+Campus,Civil or CEM,0,6,15,300,1,2,0,50000,60,62,Female,3,3,iOS,computer,12,TRUE,60,Math,TRUE,5
+Campus,Computer Science,20,9,14,200,0.2,4,3,60000,60,69,Male,6,20,Android,computer,10,TRUE,60,Math,TRUE,5
+Campus,Mechanical Engineering,30,6,16,100,910,30,1,70000,30,72,Male,14,60,iOS,gaming console,10,TRUE,60,Math,TRUE,5
+Campus,Civil or CEM,5,11,13,300,10,1,2,80000,30,72,Male,50,20,iOS,gaming console,8,TRUE,60,Math,TRUE,5
+Campus,Mechanical Engineering,30,6,15,150,0.5,1,2,75000,30,64,Female,45,30,iOS,phone,5,TRUE,60,Math,TRUE,5
+Campus,Civil or CEM,20,6,19,100,1,4,2,80000,60,67,Male,25,50,iOS,gaming console,3,TRUE,60,Math,TRUE,5
+Campus,Computer Science,7,5,19,350,28,3,0,60000,150,72,Male,5,40,iOS,gaming console,2,TRUE,60,Math,TRUE,5
+Online,Mechanical Engineering,30,3,15,150,0.2,1,5,50000,45,69,Male,4,20,iOS,computer,0,TRUE,60,Math,TRUE,5
+Online,Civil or CEM,15,10,16,250,0.8,5,3,65000,60,72,Male,11,20,iOS,gaming console,10,TRUE,45,Math,TRUE,5
+Campus,Mechanical Engineering,8,9,14,100,1,3,3,80000,0,72,Male,7,0,Android,computer,35,TRUE,30,Math,TRUE,5
+Campus,Mechanical Engineering,25,6,13,200,72.4,40,3,80000,45,69,Male,6,50,iOS,computer,15,TRUE,30,Math,TRUE,5
+Online,Computer Science,8,8,14,12000,15,1,0,100000,30,70,Male,15,3,iOS,nothing. I don't play video games.,0,TRUE,30,Math,FALSE,5
+Campus,Computer Science,36,6,14,200,1,2,1,40000,40,74,Male,14,1,iOS,computer,0,TRUE,30,Math,TRUE,5
+Campus,Computer Science,20,8,16,10000,2367,4,0,30000,30,72,Male,20,0,Android,computer,15,TRUE,10,Math,FALSE,5
+Campus,Mechanical Engineering,35,6,16,200,0.7,27,3,60000,60,72,Male,13,0,iOS,gaming console,10,TRUE,10,Math,TRUE,5
+Campus,Civil or CEM,10,6,13,200,0.5,2,4,60000,80,63,Male,40,50,iOS,computer,2,TRUE,3,Math,TRUE,5
+Campus,Computer Science,30,2,12,300,10,2,2,40000,20,71,Male,9,4,iOS,computer,20,FALSE,0,Math,TRUE,5
+Campus,"IE, ChemE or Other",40,5,14,0,3,4,0,70000,60,70,Male,7,4,iOS,nothing. I don't play video games.,0,FALSE,0,Math,FALSE,5
+Online,Mechanical Engineering,27,7,9,500,15.4,2,4,60000,60,76,Male,13,200,Android,gaming console,20,TRUE,0,Math,TRUE,5
+Campus,Mechanical Engineering,22,6,15,200,42,5,1,65000,5,73,Male,0,0,iOS,computer,6,TRUE,0,Math,TRUE,5
+Campus,Civil or CEM,30,6,17,300,12,3,4,60000,0,64,Female,20,25,iOS,gaming console,1,TRUE,240,Writing,TRUE,5
+Campus,Civil or CEM,56,8,10,200,1,4,4,70000,120,72,Male,27,49,iOS,gaming console,6,TRUE,40,Writing,TRUE,5
+Campus,Computer Science,8,10,12,250,17.4,1,0,75487,0,79,Male,7,8,iOS,gaming console,3,TRUE,20,Writing,TRUE,5
+Online,Civil or CEM,22,10,15,200,0.2,2,2,55000,45,72,Male,11,3,Android,computer,0,TRUE,15,Writing,TRUE,5
+Campus,Computer Science,20,6,15,100,7,3,4,65000,30,63,Male,7,6,Android,gaming console,10,TRUE,5,Writing,TRUE,5
+Campus,Computer Science,20,6,14,100,0.8,3,2,80000,60,71,Male,15,50,iOS,computer,6,TRUE,900,Math,TRUE,4
+Campus,Mechanical Engineering,25,9,13,200,0.6,0,1,60000,75,72,Male,6,15,iOS,gaming console,20,TRUE,180,Math,FALSE,4
+Campus,Civil or CEM,20,3,17,600,0,2,1,50000,30,66,Female,6,30,Android,computer,10,TRUE,180,Math,TRUE,4
+Campus,"IE, ChemE or Other",6,3,14,400,9,2,4,25071,1,69,Male,6,10,Android,computer,3,TRUE,180,Math,TRUE,4
+Campus,Mechanical Engineering,25,9,16,10000,2.2,1,0,30000,60,72.8,Male,5,3,iOS,computer,15,TRUE,120,Math,FALSE,4
+Campus,Civil or CEM,9,3,16,300,0.5,45,3,50000,1,75,Male,4,100,iOS,gaming console,3,TRUE,120,Math,TRUE,4
+Campus,Mechanical Engineering,25,3,14,100,2,4,3,60000,50,77,Male,15,300,iOS,computer,2,TRUE,120,Math,FALSE,4
+Campus,Civil or CEM,20,6,15,400,0.1,35,3,80000,60,67,Male,20,50,iOS,gaming console,1,TRUE,120,Math,TRUE,4
+Campus,Mechanical Engineering,10,3,12,200,0,2,1,60000,30,67,Male,10,15,iOS,computer,2,TRUE,90,Math,TRUE,4
+Campus,Computer Science,27,9,16,30,0.9,2,2,40000,20,66,Male,3,52,iOS,gaming console,0,TRUE,90,Math,TRUE,4
+Campus,Computer Science,65,3,18,100,76.7,1,2,70000,45,65,Female,15,200,iOS,nothing. I don't play video games.,0,TRUE,80,Math,FALSE,4
+Campus,Computer Science,20,2,14,150,90,1,2,55000,30,71,Male,10,20,Android,computer,10,TRUE,60,Math,TRUE,4
+Online,Computer Science,10,6,12,100,9733,3,1,50000,90,70.8,Male,2,5,iOS,phone,2,TRUE,60,Math,FALSE,4
+Campus,Mechanical Engineering,40,6,15,200,0,1,2,60000,120,65,Male,14,20,iOS,computer,1,TRUE,60,Math,TRUE,4
+Online,Mechanical Engineering,12,6,15,100,1,80,6,80000,300,70,Male,30,60,iOS,gaming console,0,TRUE,60,Math,TRUE,4
+Campus,Mechanical Engineering,56,3,14,50,15,2,0,33333,0,64.56,Female,11,3,iOS,computer,0,TRUE,60,Math,FALSE,4
+Campus,Computer Science,21,7,14,100,2,3,0,60000,30,69,Male,8,8,Android,computer,10,TRUE,45,Math,FALSE,4
+Online,Computer Science,20,3,16,2000,15,0,2,100000,120,67,Female,13,25,iOS,computer,1,TRUE,30,Math,TRUE,4
+Campus,Civil or CEM,25,6,17,150,15,1,4,30000,60,60,Female,7,70,iOS,computer,20,TRUE,10,Math,TRUE,4
+Campus,Computer Science,3,6,14,200,0.3,4,3,40000,70,70,Male,17,70,iOS,gaming console,1,TRUE,0.1,Math,TRUE,4
+Campus,Mechanical Engineering,25,6,15,500,1,1,1,60000,30,74,Male,12,20,iOS,phone,3,FALSE,0,Math,TRUE,4
+Campus,Civil or CEM,35,6,19,500,15,1,0,80000,120,65,Male,15,6,iOS,gaming console,1,TRUE,360,Writing,FALSE,4
+Campus,Computer Science,35,15,13,250,1.2,1,3,65000,60,70,Male,55,125,Android,phone,5,TRUE,90,Writing,FALSE,4
+Campus,Civil or CEM,22,3,13,250,0.2,1,1,70000,90,72,Male,19,2,iOS,phone,5,TRUE,180,Math,FALSE,3
+Campus,Computer Science,26,6,16,250,1,1,0,20000,30,70,Male,15,2,iOS,computer,5,TRUE,180,Math,FALSE,3
+Campus,Civil or CEM,35,4,12,200,0.3,2,0,36000,1,70.5,Male,9,2,iOS,computer,0,TRUE,180,Math,FALSE,3
+Campus,Computer Science,30,7,14,1000,1,2,5,50000,120,70,Male,30,20,iOS,gaming console,0,TRUE,120,Math,TRUE,3
+Campus,Computer Science,21,6,14,388,0.7,4,0,100000,91,69,Male,4,1,Other,nothing. I don't play video games.,0,TRUE,120,Math,FALSE,3
+Campus,Mechanical Engineering,19,5,16,400,1,3,0,60000,30,64,Female,10,0,Android,nothing. I don't play video games.,0,TRUE,100,Math,FALSE,3
+Campus,Civil or CEM,25,6,14,200,3885,5,0,100000,0,70,Male,6,2,iOS,computer,30,TRUE,90,Math,FALSE,3
+Campus,Computer Science,24,3,16,250,80.5,1,4,70000,20,74,Male,12,50,Android,computer,30,TRUE,80,Math,TRUE,3
+Campus,Computer Science,23,6,14,50,418,3,1,20000,60,71,Male,5,10,iOS,computer,20,TRUE,60,Math,FALSE,3
+Online,Computer Science,20,3,12,110,0.6,1,2,70000,60,72,Male,9,3,iOS,gaming console,20,TRUE,60,Math,TRUE,3
+Campus,Mechanical Engineering,25,10,13,200,1.5,5,2,30000,20,67,Male,12,25,iOS,gaming console,1,TRUE,60,Math,TRUE,3
+Online,Mechanical Engineering,20,9,14,200,6,2,0,120000,30,67,Male,14,5,iOS,phone,12,TRUE,40,Math,FALSE,3
+Campus,Civil or CEM,25,6,14,250,0.7,4,2,60000,30,70,Male,9,1,Android,gaming console,0,TRUE,20,Math,TRUE,3
+Campus,Computer Science,30,7,14,120,2016,4,0,40000,2,62,Female,10,1,iOS,phone,20,TRUE,10,Math,FALSE,3
+Campus,Computer Science,25,9,15,0,0.2,1,4,60000,60,70,Male,6,28,Android,computer,7,TRUE,0,Math,TRUE,3
+Campus,"IE, ChemE or Other",5,11,19,400,2,4,5,100000,15,80,Male,142,5,Android,computer,1,TRUE,60,Writing,FALSE,3
+Campus,Computer Science,20,10,12,20,1,2,4,50000,60,60,Female,5,10,Android,computer,0,TRUE,250,Writing,TRUE,3
+Campus,Mechanical Engineering,21,6,14,150,0.6,2,1,70001,61,69,Male,18,250,iOS,phone,66,TRUE,115,Math,FALSE,2
+Campus,Civil or CEM,42,3,12,200,2,2,0,40000,1,72,Male,12,136,iOS,phone,7,TRUE,60,Math,FALSE,2
+Online,"IE, ChemE or Other",45,1,19,300,900,3,5,80000,30,64,Female,5,26,Android,nothing. I don't play video games.,0,TRUE,60,Math,FALSE,2
+Campus,Mechanical Engineering,40,3,14,50,725,3,0,50000,30,72.047,Male,13,0,Android,computer,10,TRUE,40,Math,FALSE,2
+Campus,Computer Science,30,13,10,500,80,1,7,80000,120,76,Male,20,40,Android,computer,0,TRUE,15,Math,TRUE,2
+Campus,Mechanical Engineering,3,5,13,300,0.6,2,0,20000,30,62,Male,15,0,iOS,computer,21,TRUE,5,Math,FALSE,2
+Campus,Mechanical Engineering,30,5,17,500,2,1,1,40000,0,67,Male,13,2,Other,computer,5,FALSE,0,Math,TRUE,2
+Campus,Mechanical Engineering,22,3,14,100,1825,6,0,36000,90,69,Male,10,0,Android,computer,2,FALSE,0,Math,FALSE,2
+Campus,Civil or CEM,9,3,13,150,680,1,1,75000,2,71,Male,10,1,Android,computer,1,TRUE,10,Writing,FALSE,2
+Online,Mechanical Engineering,1,3,14,100,5,2,4,67000,105,70,Male,6,18,Android,gaming console,0,TRUE,180,Math,TRUE,1
+Online,Computer Science,20,5,13,50,5,1,0,120000,15,68,Male,5,0,Android,computer,5,TRUE,30,Math,FALSE,1
+Campus,Mechanical Engineering,20,5,16,140,1,4,3,65000,30,74,Male,3,2,iOS,computer,0,TRUE,5,Math,TRUE,1

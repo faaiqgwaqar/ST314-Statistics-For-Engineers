@@ -1,0 +1,501 @@
+"","abv","ibu","id","name","style","brewery_id","ounces"
+"1373",8.5,100,2166,"Dream Crusher Double IPA","American Double / Imperial IPA",127,12
+"1616",5,NA,570,"Hotter Than Helles Lager","Munich Helles Lager",141,12
+"2252",8,NA,2534,"Disco Superfly","American IPA",65,24
+"1579",4.9,NA,52,"Heinnieweisse Weissebier","Hefeweizen",556,12
+"537",5,28,2427,"Suncaster Summer Wheat","American Pale Wheat Ale",105,12
+"1562",4.8,NA,957,"Saranac Traditional Lager (2000)","American Pale Lager",299,12
+"244",7,18,1972,"LuckenBock","Bock",257,16
+"333",6,20,1791,"Hot Date Ale","Chile Beer",314,16
+"2104",6.5,NA,1703,"Uncle John's Apricot Apple Cider","Cider",338,16
+"1067",6.2,65,1048,"Outlaw IPA","American IPA",307,12
+"1610",5,NA,783,"Carolina Blonde (2006)","American Blonde Ale",504,12
+"465",5.5,25,1138,"Maduro Brown Ale","English Brown Ale",141,12
+"2082",6.5,NA,2143,"3 Scrooges","Winter Warmer",124,16
+"2336",9.8,NA,1136,"Tart Side of the Moon","Belgian Dark Ale",10,16
+"915",4.5,50,2692,"Get Together","American IPA",0,16
+"1520",4.7,NA,707,"Celsius Summer Ale (2012)","American Pale Wheat Ale",292,12
+"584",5.4,30,864,"Roller Dam Red Ale","Irish Red Ale",365,16
+"2307",8.8,NA,552,"Cavatica Stout","American Double / Imperial Stout",206,16
+"628",5,32,1722,"Iron Horse Pale Ale","American Pale Ale (APA)",335,12
+"1076",6.5,65,1444,"Dale's Pale Ale","American Pale Ale (APA)",166,12
+"1448",4.2,NA,2236,"Monkadelic","American Pale Ale (APA)",189,12
+"1136",6.5,69,1697,"Be Hoppy IPA","American IPA",339,16
+"742",5.5,37,1793,"Thunder Ann","American Pale Ale (APA)",312,12
+"1063",6.2,65,579,"Big Sky IPA (2012)","American IPA",336,12
+"1597",5,NA,1131,"Back East Ale","American Amber / Red Ale",235,12
+"462",5.3,25,169,"Horny Toad Cerveza (2013)","American Blonde Ale",182,16
+"1736",5.2,NA,476,"Grand Canyon American Pilsner","American Pilsner",536,12
+"1146",5.7,70,434,"Sockeye Red IPA","American IPA",223,12
+"146",5.8,15,78,"Boont Amber Ale (2011)","American Amber / Red Ale",171,12
+"913",6,49,1906,"Driftwood Ale","Extra Special / Strong Bitter (ESB)",276,12
+"1385",9.5,104,1762,"Hemlock Double IPA","American Double / Imperial IPA",220,12
+"2142",6.8,NA,543,"Bacon Brown Ale","American Brown Ale",522,16
+"221",4.9,18,1123,"Helles Golden Lager","Munich Helles Lager",371,12
+"2253",8,NA,1859,"Old Chub NITRO","Scotch Ale / Wee Heavy",166,16
+"940",7.5,51,1080,"Hop Happy","American IPA",284,16
+"86",5.2,12,2622,"Damascene Apricot Sour","Fruit / Vegetable Beer",17,16
+"1450",4.2,NA,1527,"Brünette","Euro Dark Lager",390,16
+"1788",5.4,NA,826,"Mystical Stout","Irish Dry Stout",499,16
+"696",5.5,35,2568,"Take Two Pils","German Pilsener",49,12
+"545",5.5,28,665,"Toasted Lager","Vienna Lager",489,12
+"1626",5,NA,2004,"Hop Syndrome","American Pale Lager",81,12
+"1075",6.5,65,1487,"Falling Down Brown Ale","American Brown Ale",301,16
+"99",5.7,13,1520,"Barney Flats Oatmeal Stout","Oatmeal Stout",171,12
+"1246",7.5,77,1420,"Grapefruit Jungle (GFJ)","American IPA",25,16
+"1832",5.5,NA,2278,"Mountain Crest","American Pale Lager",134,12
+"1057",6.1,64,648,"Fairweather IPA","American IPA",493,12
+"983",6.3,55,2089,"Trail Head","American Pale Ale (APA)",224,12
+"166",5.2,16,2374,"Weisse Versa (2012)","Hefeweizen",125,12
+"1002",5.8,60,2297,"Devil's Harvest Extra Pale Ale","American Pale Ale (APA)",133,12
+"1128",7,68,861,"Cane and Ebel","American Strong Ale",74,12
+"1458",4.3,NA,1152,"Galena Golden","American Blonde Ale",309,12
+"1777",5.4,NA,143,"Grand Canyon Sunset Amber Ale","American Amber / Red Ale",536,12
+"731",5.7,36,2425,"Brass Knuckle Pale Ale","American Pale Ale (APA)",105,12
+"1202",8,72,935,"Fascist Pig Ale","American Amber / Red Ale",256,16
+"1592",5,NA,1436,"Pub Beer","American Pale Lager",408,12
+"2279",8.2,NA,712,"Liquid Breadfruit","Fruit / Vegetable Beer",375,12
+"2224",7.5,NA,891,"Overbite IPA","American IPA",301,16
+"47",4.9,10,1927,"Beach Blonde","American Blonde Ale",267,16
+"209",4.5,18,33,"Bikini Blonde Lager","Munich Helles Lager",375,12
+"633",5.3,32,1300,"Gateway Kolsch Style Ale","Kölsch",433,12
+"197",6.2,17,1620,"Pumpkin Beast","Pumpkin Ale",360,12
+"220",4.8,18,2347,"Hunny Do Wheat","American Pale Wheat Ale",142,12
+"2183",7,NA,934,"The Deuce","American Brown Ale",25,16
+"689",5.3,35,1167,"Mama's Little Yella Pils","Czech Pilsener",166,19.2
+"376",5,22,407,"OB-1 Organic Ale","English Brown Ale",191,12
+"1697",5.1,NA,1022,"Quaff India Style Session Ale","American IPA",201,16
+"962",5.4,55,1966,"Wagon Party","California Common / Steam Beer",258,12
+"1516",4.6,NA,708,"Vienna Lager","Vienna Lager",386,16
+"1140",6.9,69,1512,"Worthy IPA (2013)","American IPA",199,12
+"1170",7,70,797,"Brew Free! or Die IPA (2008)","American IPA",368,12
+"663",4.2,35,1439,"Boat Beer","American IPA",222,12
+"1496",4.5,NA,1589,"PONTO S.I.P.A.","American IPA",370,16
+"1404",5.9,135,1676,"Troopers Alley IPA","American IPA",344,12
+"1048",6.4,62,422,"Bengali Tiger (2011)","American IPA",46,16
+"185",4.9,17,92,"Colorado Kölsch","Kölsch",119,12
+"1834",5.5,NA,2274,"Boxer Ice","American Adjunct Lager",134,12
+"1104",7,65,10,"Brew Free! or Die IPA","American IPA",368,12
+"56",5.6,10,108,"White Rascal","Witbier",37,12
+"109",5.9,14,130,"Morning Wood Wheat (Current)","American Pale Wheat Ale",135,12
+"2258",8,NA,1373,"Black Raspberry Nectar","Mead",421,16
+"138",5.3,15,1281,"Samuel Adams Octoberfest","Märzen / Oktoberfest",300,12
+"2314",9,NA,1981,"Hardcore Chimera","American Double / Imperial IPA",256,16
+"2202",7.2,NA,1841,"Alpha Blackback","American Black Ale",164,12
+"118",4.6,15,548,"Golden Road Hefeweizen (2012)","Hefeweizen",240,16
+"687",5.2,35,2594,"Surfrider","American Pale Ale (APA)",33,16
+"685",5,35,2628,"Grapefruit IPA","American IPA",13,12
+"1420",4,NA,2567,"Flying Mouse 8","American Porter",50,12
+"435",5.4,24,794,"Ashland Amber Ale (2009)","American Amber / Red Ale",155,12
+"181",4.9,17,802,"Hell or High Watermelon Wheat (2009)","Fruit / Vegetable Beer",368,12
+"1869",5.5,NA,1045,"Wynkoop Pumpkin Ale","Pumpkin Ale",424,12
+"505",3.2,27,550,"Rocket Girl","Kölsch",528,12
+"1362",6.8,100,1442,"F5 IPA","American IPA",182,16
+"578",5.3,30,1507,"Gator Tail Brown Ale","American Brown Ale",393,12
+"1472",4.5,NA,2009,"Happening Now","American IPA",141,12
+"1087",6.5,65,742,"Dale's Pale Ale (2003)","American Pale Ale (APA)",503,12
+"1942",6,NA,1876,"Truck Stop Honey Brown Ale","English Brown Ale",286,12
+"1497",4.5,NA,1330,"Track 1 Amber Lager","American Amber / Red Lager",427,16
+"153",4.2,16,2479,"Jammer","Gose",46,12
+"2184",7,NA,1206,"Red Clay IPA","American IPA",455,12
+"2034",6.3,NA,1949,"Pothole Stout","American Stout",10,16
+"853",4.9,45,2669,"Calyptra","American India Pale Lager",2,12
+"790",5.8,40,1832,"Adam's Stout","American Stout",298,12
+"1040",5,61,1930,"Summer Session Ale","American Pale Wheat Ale",266,12
+"1204",7,73,2254,"Salamander Slam","American IPA",180,16
+"2019",6.2,NA,845,"Marble India Pale Ale","American IPA",443,12
+"290",5,20,2674,"The Brown Note","English Brown Ale",1,16
+"657",5.5,34,18,"SurlyFest","Rye Beer",61,16
+"2215",7.4,NA,746,"CuDa Cascadian Dark Ale (2012)","American Black Ale",387,16
+"1378",9.9,100,1160,"Old Devil's Tooth","American Barleywine",309,12
+"2090",6.5,NA,900,"Celestial Blonde Ale","American Blonde Ale",301,16
+"390",7,22,1574,"Barrel Aged Farmer","American Brown Ale",365,16
+"75",4.1,12,2635,"Sparkle","American Pale Lager",11,16
+"1184",7.3,70,916,"Abominable Winter Ale (2012)","American Strong Ale",80,16
+"1439",4.2,NA,2291,"Blood Orange Gose","Gose",171,12
+"2320",9.2,NA,909,"Escoffier Bretta Ale","American Wild Ale",10,16
+"1707",5.1,NA,1431,"Ghost Rider Pale Ale (2013)","American Pale Ale (APA)",148,12
+"1438",4.1,NA,1780,"Rise to the Top","Cream Ale",142,12
+"420",7.9,23,1769,"White Magick of the Sun","Witbier",322,12
+"1965",6,NA,1827,"Deep Ellum Pale Ale","American Pale Ale (APA)",127,12
+"198",6.9,17,1463,"Hideout Helles","Munich Helles Lager",135,12
+"676",4.9,35,629,"Harbinger","Saison / Farmhouse Ale",46,16
+"812",5.2,42,1247,"Ray Ray’s Pale Ale","American Pale Ale (APA)",122,12
+"1602",5,NA,88,"Viennese Lager","Vienna Lager",364,12
+"1494",4.5,NA,1381,"Endless Sun Ale","American Pale Wheat Ale",301,16
+"2036",6.3,NA,1786,"Half Court IPA","American IPA",315,16
+"573",5,30,1106,"Pablo Beach Pale Ale","American Pale Ale (APA)",466,12
+"2290",8.5,NA,1980,"Troll Destroyer","Belgian IPA",177,12
+"246",4.5,19,1435,"Stone's Throw IPA","Scottish Ale",335,12
+"617",5.5,31,2616,"Pole Barn Stout","Oatmeal Stout",21,16
+"2008",6.2,NA,2469,"Ryecoe","American IPA",8,16
+"431",5.2,24,751,"Hurricane Amber Ale (2004)","American Amber / Red Ale",101,12
+"2203",7.2,NA,2543,"Todd the Axe Man","American IPA",61,16
+"889",5.7,46,1747,"Bronx Black Pale Ale","American Black Ale",329,16
+"673",4.9,35,1395,"Hazed & Infused","American Pale Ale (APA)",417,12
+"2015",6.2,NA,2003,"Escape to Colorado","American IPA",81,12
+"233",5.2,18,71,"Fat Tire Amber Ale (2008)","American Amber / Red Ale",82,12
+"1092",6.5,65,2386,"Third Eye Enlightened Pale Ale","American Pale Ale (APA)",119,12
+"1769",5.3,NA,1103,"Babbling Blonde","American Blonde Ale",43,12
+"1469",4.5,NA,2552,"Painted Turtle","American Pale Ale (APA)",56,12
+"1729",5.2,NA,1650,"Arkansas Red","American Amber / Red Ale",139,12
+"559",7.5,29,659,"Crabtree Oatmeal Stout","Oatmeal Stout",515,16
+"1279",7.4,83,762,"Ace IPA","American IPA",509,16
+"1476",4.5,NA,1763,"Geary's Pale Ale","English Pale Ale",323,12
+"765",5,40,1248,"Main St. Virginia Ale","Altbier",122,12
+"389",6.5,22,1691,"Stir Crazy Winter Ale","Winter Warmer",277,12
+"543",5.3,28,553,"People's Pale Ale","American Pale Ale (APA)",527,12
+"2032",6.3,NA,2241,"Viking Ice Hole","Oatmeal Stout",10,16
+"1619",5,NA,1735,"Sprocket Blonde Ale (2006)","American Blonde Ale",333,12
+"1818",5.5,NA,1250,"Action Man Lager","Vienna Lager",445,12
+"2",5.6,4,753,"Summer Solstice Cerveza Crema (2009)","Cream Ale",171,12
+"1663",5,NA,1797,"Black Bay Milk Stout","Milk / Sweet Stout",310,12
+"1852",5.5,NA,2267,"Walloon","Saison / Farmhouse Ale",118,12
+"1108",7.2,65,426,"Torpedo","American IPA",83,16
+"2242",8,NA,2589,"Raja","American Double / Imperial IPA",37,12
+"1719",5.2,NA,1303,"6-4-3 Double Play Pilsner","German Pilsener",380,12
+"1418",4,NA,784,"Carolina Lighthouse (2007)","American Blonde Ale",504,12
+"1255",6.5,80,729,"Midnight Ryder","American Black Ale",277,12
+"1392",7,113,24,"113 IPA","American IPA",371,12
+"604",6.5,30,1546,"Steel Wheels ESB","Extra Special / Strong Bitter (ESB)",382,12
+"1589",4.9,NA,715,"Long Day Lager","Czech Pilsener",475,12
+"32",4.7,9,2366,"Point Special (Current)","American Adjunct Lager",131,12
+"1743",5.2,NA,2474,"Nooner","German Pilsener",83,12
+"2315",9,NA,1570,"Lemon Shandy Tripel","Tripel",124,16
+"1508",4.5,NA,334,"Wild Onion Pumpkin Ale (2010)","Pumpkin Ale",361,12
+"667",4.5,35,948,"Circuit Bohemian Pilsner","Czech Pilsener",17,16
+"1600",5,NA,1012,"467 Ethan's Stout","American Stout",380,12
+"1690",5,NA,822,"Woodchuck Amber Hard Cider","Cider",501,12
+"387",5.7,22,1645,"Westfield Octoberfest","Märzen / Oktoberfest",351,12
+"1276",8.4,82,47,"Ballz Deep Double IPA","American Double / Imperial IPA",481,16
+"2346",9.9,NA,1425,"Barrel Aged Seven Devils Imperial Stout","American Double / Imperial Stout",309,12
+"2292",8.5,NA,627,"Kludde","Belgian Strong Dark Ale",10,16
+"1666",5,NA,709,"Miner's Gold","American Blonde Ale",386,16
+"1083",6.5,65,1,"Dale's Pale Ale","American Pale Ale (APA)",166,12
+"2343",9.9,NA,2361,"Axe Head Malt Liquor","American Malt Liquor",134,24
+"139",5.4,15,1741,"A Slice of Hefen","Hefeweizen",332,16
+"1090",6.5,65,1065,"Dale's Pale Ale","American Pale Ale (APA)",389,12
+"623",4,32,1097,"Organic Baba Black Lager","Schwarzbier",159,12
+"984",6.5,55,1599,"Royal Brat","Extra Special / Strong Bitter (ESB)",25,16
+"159",4.8,16,1198,"Saddle Bronc Brown Ale (2013)","English Brown Ale",457,12
+"2232",7.7,NA,2542,"Verdun","Bière de Garde",10,16
+"557",5.7,29,1145,"Cardinal Pale Ale","American Pale Ale (APA)",337,12
+"218",4.6,18,590,"Longboard Island Lager","American Amber / Red Lager",439,12
+"817",5.5,42,2301,"Power & Light","American Pale Ale (APA)",140,12
+"250",5,19,622,"Blacktop Blonde","American Blonde Ale",449,24
+"1801",5.5,NA,1369,"Gwar Beer","American Pale Ale (APA)",141,12
+"1324",7.5,90,329,"WET","American IPA",61,16
+"1917",5.8,NA,2631,"Black","American Black Ale",13,12
+"1578",4.9,NA,1184,"Dirtbag Dunkel","Munich Dunkel Lager",107,16
+"800",7.7,40,1767,"Seventh Son Hopped Red Ale","American Amber / Red Ale",183,16
+"1693",5.1,NA,2101,"Smoky Wheat","Rauchbier",10,16
+"1953",6,NA,1044,"Big Red Coq","American Amber / Red Ale",10,16
+"1655",5,NA,884,"Elm City Pilsner","American Pilsner",410,12
+"2125",6.8,NA,1517,"Pink-I Raspberry IPA","American IPA",107,16
+"429",5.1,24,1272,"Louie's Demise Amber Ale","American Amber / Red Ale",284,16
+"380",5.1,22,950,"Rivet Irish Red Ale","Irish Red Ale",17,16
+"133",5.1,15,1649,"Chai Ale","Herbed / Spiced Beer",350,16
+"1749",5.2,NA,2411,"Nitro Can Coffee Stout","American Stout",113,12
+"1366",7.2,100,664,"Elevated IPA","American IPA",332,16
+"1599",5,NA,1564,"1800 Big Log Wheat (2012)","American Pale Wheat Ale",380,12
+"1188",7.5,70,1677,"The Great Return","American IPA",343,16
+"708",6.2,35,979,"Poop Deck Porter","American Porter",374,12
+"991",6.3,57,423,"Righteous Ale (2011)","Rye Beer",46,16
+"1668",5,NA,1179,"River North Ale","American Amber / Red Ale",459,16
+"567",4.9,30,1310,"Boston Lager","Vienna Lager",300,12
+"485",8.2,25,2247,"Lake Monster","Baltic Porter",184,16
+"2272",8.1,NA,1764,"Rudolph's Red","American Amber / Red Ale",43,12
+"223",5,18,545,"Florida Cracker Belgian Wit","Witbier",141,12
+"236",5.3,18,1920,"Alaskan Amber","Altbier",270,12
+"759",5.8,39,1792,"Iron Butt Red Ale","American Amber / Red Ale",313,12
+"308",5.1,20,360,"#9","Fruit / Vegetable Beer",303,12
+"2173",7,NA,1107,"Nut Sack Imperial Brown Ale","American Brown Ale",465,12
+"703",5.8,35,1960,"Saison Pamplemousse","Saison / Farmhouse Ale",240,12
+"1829",5.5,NA,133,"Saranac Pale Ale (16 oz.)","English Pale Ale",299,16
+"98",5.5,13,1113,"Elder Betty","Hefeweizen",303,12
+"2051",6.4,NA,827,"Tempter IPA","American IPA",480,12
+"1486",4.5,NA,2581,"Lost Galaxy","American IPA",41,16
+"1343",7,94,1549,"Farmer Wirtz India Pale Ale","English India Pale Ale (IPA)",107,16
+"1731",5.2,NA,2008,"Element 29","American Pale Ale (APA)",81,12
+"2022",6.2,NA,885,"Sea Hag IPA","American IPA",410,12
+"753",5,38,1253,"Venture Pils","German Pilsener",75,12
+"1782",5.4,NA,646,"Nut Brown Ale","English Brown Ale",518,12
+"1437",4.1,NA,1526,"Havanüther","Light Lager",390,16
+"270",4,20,1186,"Hazy Day Belgian-Style Wit","Witbier",379,16
+"1793",5.5,NA,1321,"Brewerhood Brown Ale","American Brown Ale",380,12
+"321",5.5,20,1774,"Hijack","Cream Ale",242,12
+"1820",5.5,NA,1525,"Yabba Dhaba Chai Tea Porter","American Porter",32,12
+"97",5.1,13,478,"Great Crescent Belgian Style Wit","Witbier",165,16
+"386",5.3,22,382,"Common Sense Kentucky Common Ale","American Brown Ale",546,16
+"614",5.1,31,2032,"Ballistic Blonde","Belgian Pale Ale",245,12
+"247",4.7,19,2510,"Honey Badger Blonde","American Blonde Ale",69,16
+"953",7.5,53,2191,"Loki Red Ale","American Amber / Red Ale",201,16
+"874",5.8,45,1833,"Hop Farm IPA","American IPA",297,12
+"401",5.2,23,681,"Summertime Ale","Kölsch",472,16
+"834",6.3,43,2339,"Little Red Cap","Altbier",144,12
+"1082",6.5,65,754,"Dale's Pale Ale (2010)","American Pale Ale (APA)",166,12
+"1347",8,95,1229,"Dodgy Knight Imperial IPA","American Double / Imperial IPA",449,12
+"959",4,55,2007,"Norm's Gateway IPA","American IPA",124,12
+"1899",5.7,NA,973,"Face Down Brown Ale","American Brown Ale",480,12
+"895",5.6,47,2687,"Parapet ESB","Extra Special / Strong Bitter (ESB)",0,16
+"2191",7.1,NA,2264,"Rise of the Phoenix","American IPA",177,12
+"383",5.3,22,1699,"Great Crescent Blonde Ale","American Blonde Ale",165,16
+"1376",9.9,100,6,"GUBNA Imperial IPA","American Double / Imperial IPA",166,12
+"976",6,55,413,"Sky High Rye","American Pale Ale (APA)",541,12
+"2192",7.1,NA,2647,"Rumble","American IPA",6,12
+"1355",9.1,99,2063,"Count Hopula (Vault Series)","American Double / Imperial IPA",30,16
+"2106",6.6,NA,2265,"Devil's Cup","American Pale Ale (APA)",177,12
+"1402",8.9,126,2440,"Bay of Bengal Double IPA (2014)","American Double / Imperial IPA",99,12
+"155",4.5,16,2412,"Deception","American Blonde Ale",112,12
+"1566",4.8,NA,1975,"Blue Paddle","Czech Pilsener",82,12
+"2058",6.5,NA,1149,"Kentucky IPA","American IPA",388,16
+"918",5,50,469,"Fox Tail Gluten Free Ale","American Pale Ale (APA)",233,12
+"1297",8.7,85,388,"G'KNIGHT (12 oz.)","American Double / Imperial IPA",166,12
+"1506",4.5,NA,2037,"The Gilded Age","Munich Helles Lager",243,12
+"106",5,14,414,"Bottom Up Belgian Wit","Witbier",44,12
+"1023",7,60,1725,"Hopped on the High Seas (Calypso)","American IPA",141,12
+"851",4.5,45,2203,"Sunshine Pils","American Pilsner",97,12
+"1836",5.5,NA,131,"Dry Heat Hefeweizen (2006)","Hefeweizen",507,12
+"471",5.7,25,930,"Great Crescent Oktoberfest Lager","Märzen / Oktoberfest",165,16
+"336",6.9,20,1403,"Horny Monk","Dubbel",11,16
+"426",4.9,24,1617,"Morgan Street Oktoberfest","Märzen / Oktoberfest",326,12
+"2264",8,NA,1013,"Hibernal Vinifera Stout","Foreign / Export Stout",264,12
+"2043",6.4,NA,1023,"Mistress Winter Wheat","Winter Warmer",107,12
+"289",5,20,2539,"The Brown Note","American Brown Ale",62,16
+"2223",7.5,NA,2529,"Love In An Ellavator","American IPA",65,24
+"1428",4,NA,862,"Mustang '33","American Pale Lager",366,12
+"1086",6.5,65,743,"Dale's Pale Ale (2004)","American Pale Ale (APA)",503,12
+"916",4.5,50,2190,"Campside Session IPA","American IPA",202,16
+"107",5.3,14,420,"Washita Wheat","American Pale Wheat Ale",366,12
+"2234",7.7,NA,906,"Upslope Pumpkin Ale","Pumpkin Ale",51,16
+"2289",8.3,NA,2535,"Vinyl Frontier","American Double / Imperial IPA",65,24
+"2239",7.9,NA,976,"Marooned On Hog Island","American Stout",368,12
+"727",5.4,36,2333,"Psycho Penguin Vanilla Porter","American Porter",148,12
+"531",4.9,28,183,"Pamola Xtra Pale Ale","American Pale Ale (APA)",292,12
+"1226",7,75,2038,"Infamous IPA","American IPA",242,12
+"2094",6.5,NA,1503,"Oak Aged Cider","Cider",394,12
+"113",4.5,15,404,"Black Star Double Hopped Golden Lager (24 oz.)","American Pale Lager",543,24
+"2303",8.6,NA,2058,"Palate Mallet","American Double / Imperial IPA",235,12
+"1754",5.2,NA,84,"Rail Yard Ale (2009)","American Amber / Red Ale",424,12
+"1780",5.4,NA,2359,"Huber Bock (2014)","Bock",134,16
+"1515",4.6,NA,2269,"Rahr's Blonde","Munich Helles Lager",176,12
+"211",4.5,18,846,"Black Walnut Wheat","American Dark Wheat Ale",314,16
+"1200",6.6,72,633,"Firestarter India Pale Ale","American IPA",107,16
+"253",5.2,19,1383,"Beaver Logger","American Pale Lager",420,12
+"1080",6.5,65,828,"Dale's Pale Ale (2012)","American Pale Ale (APA)",166,12
+"1781",5.4,NA,719,"Sweet Georgia Brown","American Brown Ale",514,16
+"1912",5.8,NA,1567,"Autumn Winds","Märzen / Oktoberfest",379,16
+"1236",7.5,75,2463,"Union Jack","American IPA",48,12
+"1294",8.5,85,1418,"Larry Imperial IPA","American Double / Imperial IPA",295,12
+"1055",6,64,309,"Good People IPA","American IPA",478,12
+"1521",4.7,NA,1157,"Tejas Lager","Czech Pilsener",463,12
+"1341",6.1,94,792,"Caldera IPA (2007)","American IPA",155,12
+"22",4.3,8,2530,"Daft Funk","Berliner Weissbier",65,24
+"1927",5.9,NA,2467,"Acidulated Trip","Saison / Farmhouse Ale",10,16
+"1096",6.8,65,1399,"Heal the Bay IPA","American IPA",240,16
+"1613",5,NA,1342,"First Press","Cider",425,12
+"1169",7,70,799,"21st Amendment IPA (2006)","American IPA",368,12
+"388",5.9,22,2255,"Santa's Secret","Winter Warmer",179,16
+"1827",5.5,NA,1600,"Yunkin' Punkin'","Pumpkin Ale",356,12
+"1630",5,NA,1034,"Cabrillo Kölsch","Kölsch",240,16
+"1267",8,80,1745,"Mississippi Fire Ant","American Amber / Red Ale",133,16
+"232",5.2,18,563,"Fat Tire Amber Ale","American Amber / Red Ale",82,16
+"2067",6.5,NA,2418,"Dubbelicious","Dubbel",10,16
+"1896",5.7,NA,2409,"Doomtree","Extra Special / Strong Bitter (ESB)",61,16
+"2176",7,NA,689,"Mystic Mama IPA","American IPA",92,12
+"416",6.3,23,2118,"Battle LIne","American Brown Ale",215,12
+"240",5.7,18,639,"Cherry Ale (1)","Fruit / Vegetable Beer",165,16
+"664",4.2,35,2050,"Cream Ale","Cream Ale",238,12
+"611",9,30,2082,"Whip Fight","Scotch Ale / Wee Heavy",25,16
+"538",5,28,1380,"Harpoon Summer Beer","Kölsch",234,12
+"526",4.5,28,1552,"Dog Days Summer Ale","Kölsch",164,12
+"1572",4.8,NA,1098,"Hala Kahiki Pineapple Beer","Fruit / Vegetable Beer",43,12
+"2285",8.2,NA,1316,"Colorojo Imperial Red Ale","American Strong Ale",424,12
+"793",6,40,692,"Blue Point White IPA","American White IPA",489,12
+"167",5.2,16,1748,"Bronx Summer Pale Ale","American Pale Ale (APA)",329,16
+"243",6,18,1108,"Sweet As Pacific Ale","American Pale Wheat Ale",464,12
+"2291",8.5,NA,2039,"Uroboros","American Stout",193,12
+"214",4.6,18,1910,"Lake House","Munich Helles Lager",192,16
+"971",5.6,55,1270,"Capital Trail Pale Ale","American Pale Ale (APA)",343,12
+"1875",5.6,NA,1651,"Maize & Blueberry","Fruit / Vegetable Beer",10,16
+"495",5.1,26,767,"Moose Drool Brown Ale (2011)","American Brown Ale",336,12
+"1033",7.5,60,2585,"Galaxy IPA","American IPA",40,16
+"1784",5.4,NA,1683,"Dread Brown Ale","American Brown Ale",252,12
+"83",5,12,2108,"Laughing Dog Cream Ale","Cream Ale",218,12
+"715",7.5,35,1898,"Blackmarket Rye IPA","American IPA",112,12
+"1952",6,NA,1973,"North French","Bière de Garde",10,16
+"1641",5,NA,1475,"Macon Progress Ale","American Pale Ale (APA)",400,12
+"281",4.8,20,1968,"FMB 101","Kölsch",36,12
+"1526",4.7,NA,2298,"Passenger","English Dark Mild Ale",167,12
+"932",7.2,50,2077,"No Wake IPA","American IPA",228,12
+"1463",4.5,NA,1776,"All Nighter Ale","Extra Special / Strong Bitter (ESB)",318,12
+"861",5.1,45,1194,"Alpha Ale","American Pale Ale (APA)",181,12
+"1632",5,NA,2650,"Denver Pale Ale (Artist Series No. 1)","American Pale Ale (APA)",6,12
+"1932",5.9,NA,2047,"Tarasque","Saison / Farmhouse Ale",239,12
+"1785",5.4,NA,2215,"Java Mac","Scottish Ale",25,16
+"265",3.9,20,2392,"Nonstop Hef Hop","American Pale Wheat Ale",80,16
+"361",4,22,2100,"Yard Sale Winter Lager","American Amber / Red Lager",159,12
+"323",5.5,20,1073,"Epicenter Amber Ale","American Amber / Red Ale",30,12
+"473",5.7,25,91,"Steam Engine Lager","American Amber / Red Lager",119,12
+"129",5,15,1868,"Saint Archer White Ale","Witbier",288,12
+"919",5.2,50,2156,"Oneida","American Pale Ale (APA)",209,16
+"947",6.5,52,1205,"Northern Lights India Pale Ale","American IPA",383,16
+"1295",8.7,85,806,"Gordon Imperial Red (2010)","American Double / Imperial IPA",166,12
+"2024",6.2,NA,220,"Colorado Red Ale","American Amber / Red Ale",386,12
+"334",6.5,20,932,"Booyah Farmhouse Ale","Saison / Farmhouse Ale",284,16
+"697",5.5,35,2119,"First Stand","Saison / Farmhouse Ale",215,12
+"2120",6.7,NA,1528,"Orlison India Pale Lager","American Pale Lager",390,16
+"634",5.4,32,357,"2012 Black Ale","American Brown Ale",131,12
+"345",5,21,1428,"Tin Roof Watermelon Wheat","Fruit / Vegetable Beer",152,12
+"2041",6.4,NA,1156,"Number 22 Porter","American Porter",463,12
+"1487",4.5,NA,73,"Real McCoy Amber Ale (Current)","American Amber / Red Ale",534,12
+"868",5.5,45,1908,"Fresh Slice White IPA","American White IPA",275,12
+"1560",4.8,NA,181,"Beltian White","Witbier",535,12
+"1315",7.3,87,1856,"IPA & a Half","American IPA",291,12
+"504",6.5,26,1058,"33 Select Brown Ale","American Brown Ale",471,16
+"2283",8.2,NA,2445,"Troegenator","Doppelbock",97,16
+"873",5.8,45,2423,"Fenway American Pale Ale","American Pale Ale (APA)",103,12
+"1177",7,70,1109,"Descender IPA","American IPA",464,12
+"427",5,24,586,"Kodiak Brown Ale","American Brown Ale",223,12
+"2112",6.6,NA,1939,"Gatecrasher","English India Pale Ale (IPA)",210,12
+"2204",7.2,NA,1171,"Road 2 Ruin Double IPA","American Double / Imperial IPA",435,12
+"1300",8.8,85,320,"Gandhi-Bot Double IPA (12 oz.)","American Double / Imperial IPA",410,12
+"450",4.7,25,2367,"Humbucker Helles","Maibock / Helles Bock",126,16
+"1715",5.2,NA,2495,"Michelada","Fruit / Vegetable Beer",72,16
+"2098",6.5,NA,1415,"Dry Hard Cider","Cider",411,16
+"1620",5,NA,1734,"Sprocket Pale Ale (2006)","American Pale Ale (APA)",333,12
+"551",4.9,29,567,"Churchkey Pilsner Style Beer","American Pilsner",526,12
+"248",4.7,19,2661,"Park","American Pale Wheat Ale",4,12
+"2271",8.1,NA,2289,"Mastermind","American Double / Imperial IPA",172,12
+"2247",8,NA,994,"Abominable Ale","English Strong Ale",460,12
+"1586",4.9,NA,484,"NOLA Blonde Ale","American Blonde Ale",174,12
+"571",4.9,30,1836,"Widmer Brothers Hefeweizen","Hefeweizen",296,12
+"2078",6.5,NA,964,"Dank IPA (2012)","American IPA",451,16
+"1929",5.9,NA,1290,"The Sword Iron Swan Ale","English Pale Ale",128,12
+"2216",7.4,NA,1708,"Taster's Choice","Doppelbock",264,12
+"671",4.8,35,2069,"Slow Ride","American Pale Ale (APA)",184,12
+"1441",4.2,NA,180,"Island Wheat","American Pale Wheat Ale",192,12
+"1778",5.4,NA,2182,"Sunset Amber","American Pale Ale (APA)",204,12
+"576",5.2,30,2036,"Getaway","German Pilsener",244,16
+"1858",5.5,NA,2035,"Kolschtal Eddy","Kölsch",33,16
+"1433",4,NA,1681,"Wasatch Apricot Hefeweizen","Fruit / Vegetable Beer",302,12
+"1564",4.8,NA,365,"BRIK Irish Red Ale","Irish Red Ale",440,16
+"1237",9,75,1825,"Squatters Hop Rising Double IPA","American Double / Imperial IPA",302,12
+"1150",6.2,70,1177,"Mutiny IPA","American IPA",192,12
+"1098",6.8,65,1521,"Modus Hoperandi","American IPA",264,12
+"690",5.3,35,7,"Mama's Little Yella Pils","Czech Pilsener",166,12
+"1609",5,NA,62,"U.S. Pale Ale","American Pale Ale (APA)",192,12
+"25",4.6,8,2584,"Gose","Gose",41,16
+"867",5.5,45,2590,"Czech Yo Self","Czech Pilsener",36,12
+"1658",5,NA,40,"Atlantic Amber Ale (2007)","American Amber / Red Ale",410,12
+"1211",5.9,75,972,"Rude Parrot IPA","American IPA",481,16
+"1685",5,NA,1169,"Ol' Factory Pils","German Pilsener",435,12
+"1535",4.7,NA,2192,"Occidental Hefeweizen","American Pale Wheat Ale",200,16
+"1991",6,NA,582,"Balt Altbier","Altbier",71,12
+"892",7,46,2618,"Thai.p.a","American IPA",20,16
+"2326",9.3,NA,2657,"Blackbeard","American Double / Imperial Stout",5,12
+"372",4.9,22,631,"Flagship Ale","Cream Ale",379,12
+"70",6.1,11,1705,"Wick For Brains","Pumpkin Ale",337,12
+"1393",6.5,115,1492,"Blazing World","American Amber / Red Ale",209,16
+"855",5,45,2602,"Citrafest","American IPA",27,16
+"191",5.1,17,1030,"Country Pale Ale","English Pale Ale",295,12
+"1401",9.7,120,15,"Abrasive Ale","American Double / Imperial IPA",61,16
+"694",5.5,35,1928,"Cape Cod Red","American Amber / Red Ale",267,16
+"1607",5,NA,1267,"Black Rabbit","American Black Ale",10,16
+"1110",7.6,65,1895,"Groupe G","Belgian IPA",280,16
+"480",6,25,1672,"Riverwalk Blonde Ale","American Blonde Ale",346,12
+"809",4.7,42,1223,"All Day IPA","American IPA",15,12
+"1035",8.7,60,733,"Gordon Beer (2006)","American Double / Imperial IPA",503,12
+"457",5,25,2142,"Screamin’ Pumpkin","Pumpkin Ale",124,16
+"1940",6,NA,2040,"Arjuna","Witbier",193,12
+"1360",6.3,100,879,"Dagger Falls IPA","American IPA",309,12
+"2121",6.7,NA,345,"Upslope Brown Ale","English Brown Ale",51,12
+"1135",6.3,69,2497,"Wobble","American IPA",74,16
+"2267",8,NA,1914,"Beelzebub","American Double / Imperial Stout",272,16
+"672",4.8,35,890,"Payette Pale Ale","American Pale Ale (APA)",307,12
+"84",5,12,773,"Blueberry Blonde Ale","American Blonde Ale",299,12
+"852",4.6,45,1749,"Just IPA","American IPA",328,12
+"172",6.8,16,2160,"Joey Wheat","American Pale Wheat Ale",24,16
+"264",3.9,20,2393,"Nonstop Hef Hop","American Pale Wheat Ale",80,16
+"2174",7,NA,1753,"Heyoka IPA","American IPA",327,16
+"1617",5,NA,2351,"Behemoth","American Pilsner",139,12
+"688",5.3,35,1594,"Maylani's Coconut Stout","American Stout",367,16
+"1312",8.5,86,1265,"Old Grogham Imperial India Pale Ale","American Double / Imperial IPA",387,16
+"1990",6,NA,1189,"Honeyspot Road White IPA","American White IPA",435,12
+"1423",4,NA,2358,"Minhas Light (2012)","Light Lager",134,12
+"1000",5.8,60,1085,"Rise-Up Red (2014)","American Amber / Red Ale",80,16
+"498",5.3,26,429,"Ninja Porter","American Porter",528,12
+"748",5.6,37,400,"Sierra Nevada Pale Ale","American Pale Ale (APA)",83,12
+"905",5.3,48,190,"483 Pale Ale (2010)","American Pale Ale (APA)",365,16
+"1032",7.4,60,1302,"Blur India Pale Ale","American IPA",432,12
+"2122",6.8,NA,2207,"Golden One","Belgian Pale Ale",193,12
+"1477",4.5,NA,1773,"12 Man Pale Ale","American Pale Ale (APA)",319,12
+"156",4.8,16,2419,"Bunker Hill Blueberry Ale ","Other",103,12
+"828",7,42,1778,"On the Count of 3 (2015)","Hefeweizen",292,16
+"1230",7.2,75,2620,"Saucy Intruder","Rye Beer",18,16
+"268",3.9,20,2389,"Nonstop Hef Hop","American Pale Wheat Ale",80,16
+"2218",7.5,NA,481,"Threadless IPA","American IPA",256,16
+"2225",7.5,NA,122,"Golden Frau Honey Wheat","Braggot",282,12
+"2140",6.8,NA,1433,"Hat Trick Hop IPA","American IPA",409,16
+"2295",8.5,NA,768,"Full Moon Belgian White Ale","Witbier",507,12
+"662",8.5,34,2575,"Wooden Rooster","Tripel",45,16.9
+"722",8.6,35,1291,"Narragansett Bohemian Pilsner","German Pilsener",143,16
+"1683",5,NA,114,"Triangle White Ale","Witbier",524,12
+"1133",6.3,69,107,"Avery India Pale Ale","American IPA",37,12
+"1003",5.8,60,1117,"Devil's Harvest Extra Pale Ale","American Pale Ale (APA)",133,16
+"1354",9,99,672,"Hop A Potamus Double Dark Rye Pale Ale","Rye Beer",365,16
+"1301",8.8,85,42,"Gandhi-Bot Double IPA (16 oz.) (2010)","American Double / Imperial IPA",410,16
+"555",5.2,29,1571,"Slow Hand Stout","American Stout",377,16
+"1432",4,NA,1826,"Squatters Full Suspension Pale Ale","American Pale Ale (APA)",302,12
+"1512",4.6,NA,1731,"Peaches & Cream","Fruit / Vegetable Beer",201,16
+"494",5.1,26,1711,"Moose Drool Brown Ale","American Brown Ale",336,12
+"856",5,45,602,"Boji Blue Pale Ale","American Pale Ale (APA)",471,16
+"1939",6,NA,2337,"Charlie's Rye IPA","American IPA",146,16
+"196",6.2,17,390,"Whitsun","American Pale Wheat Ale",541,12
+"2329",9.6,NA,2206,"Bitter Biker Double IPA","American Double / Imperial IPA",175,16
+"1436",4.1,NA,2465,"Mind Games","Dunkelweizen",10,16
+"2038",6.3,NA,1227,"Hoppy Bitch IPA","American IPA",450,16
+"18",5.3,7,1144,"Samuel Adams Summer Ale","American Pale Wheat Ale",300,12
+"315",5.3,20,1153,"Lumberyard Pilsner","American Pilsner",158,12
+"1364",7,100,1176,"Redacted Rye IPA","American IPA",110,16
+"1175",7,70,2566,"Flying Mouse 4","American IPA",50,12
+"1232",7.2,75,2045,"Might As Well IPL","American Pale Lager",240,16
+"487",9.2,25,1770,"Voodoo Love Child","Tripel",322,12
+"497",5.2,26,1201,"Striped Bass Pale Ale","American Pale Ale (APA)",237,12
+"349",5.2,21,2237,"Towhead","American Blonde Ale",188,12
+"1986",6,NA,1482,"Socktoberfest","Märzen / Oktoberfest",309,16
+"1024",7,60,1694,"Dry-Hopped On The High Seas Caribbean-Style IPA","American IPA",141,12
+"2188",7,NA,2222,"10 Ton","Oatmeal Stout",94,16
+"341",4.3,21,2129,"Monarch Classic American Wheat","American Pale Wheat Ale",213,12
+"313",5.2,20,908,"Pumpkan","Pumpkin Ale",295,12
+"820",5.7,42,2452,"Hustle","American Amber / Red Ale",93,12
+"2164",7,NA,1003,"Big Elm IPA","American IPA",477,12
+"335",6.6,20,1068,"Barn Burner Saison","Saison / Farmhouse Ale",125,12
+"864",5.4,45,728,"Day Tripper Pale Ale","American Pale Ale (APA)",277,12
+"1744",5.2,NA,2242,"Gunga Din","Cider",186,16
+"1101",6.9,65,2219,"Scarecrow","American IPA",27,16
+"898",6.5,47,2268,"Pretzel Stout","American Stout",161,16
+"163",5,16,105,"Köld Lager (2010)","German Pilsener",45,16
+"433",5.2,24,739,"Indianapolis Indians Lager","Dortmunder / Export Lager",25,16
+"779",5.5,40,2054,"Pale Alement","American Pale Ale (APA)",24,16
+"1877",5.6,NA,480,"Farmer Ted's Farmhouse Cream Ale","Cream Ale",331,12
+"2139",6.8,NA,160,"Ice Pick Ale","American IPA",551,12
+"1982",6,NA,1329,"I.W.A. (2011)","American Pale Wheat Ale",30,12
+"1377",9.9,100,1006,"Elevation Triple India Pale Ale","American Double / Imperial IPA",110,12
+"327",5.7,20,1318,"Wild Wolf Wee Heavy Scottish Style Ale","Scotch Ale / Wee Heavy",181,12
+"1752",5.2,NA,2147,"#003 Brown & Robust Porter","American Porter",211,12
+"1727",5.2,NA,2354,"Lighthouse Amber","Altbier",121,16
+"1030",7.2,60,1456,"Powder Hound Winter Ale","English Strong Ale",336,12
+"957",6,54,693,"Flying Jenny Extra Pale Ale (2012)","American Pale Ale (APA)",379,12
+"179",4.6,17,1016,"Orange Wheat","Fruit / Vegetable Beer",476,12
+"188",5.1,17,2384,"Laka Laka Pineapple","Hefeweizen",120,12
+"1151",6.2,70,1659,"Evo IPA","American IPA",190,12
+"1872",5.6,NA,1155,"Big Bend Hefeweizen","Hefeweizen",463,12
+"488",9.2,25,1729,"Gran Met","Belgian Strong Pale Ale",322,12
+"1525",4.7,NA,1421,"Live Local Golden Ale","American Blonde Ale",107,12
+"558",6,29,603,"Midwest Charm Farmhouse Ale","Saison / Farmhouse Ale",471,16
+"1060",5.5,65,1282,"Nice Rack IPA","American IPA",436,16
+"1",5.6,4,1350,"Summer Solstice","Cream Ale",171,12
+"1768",5.3,NA,927,"Dirty Hippie Dark Wheat","American Dark Wheat Ale",341,12
+"455",4.9,25,673,"Dottie Seattle Lager","American Amber / Red Lager",516,16
+"1870",5.5,NA,620,"B3K Black Lager","Schwarzbier",424,12
